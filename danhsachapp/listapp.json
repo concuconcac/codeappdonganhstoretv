@@ -399,6 +399,14 @@
         "category": "TRUYỀN HÌNH - IPTV",
         "items": [
             {
+                "name": "Đông Anh TV",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
+            },
+            {
                 "name": "Imedia TV",
                 "developer": "",
                 "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
