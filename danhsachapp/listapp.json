@@ -289,6 +289,22 @@
                 "installs": "",
                 "desc": "Truyền hình cơ bản",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/onna.apk"
+            },
+            {
+                "name": "Live Channels",
+                "developer": "Ứng dụng chỉ dành cho Google TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Live_Channels.png",
+                "installs": "",
+                "desc": "Phiên bản 1.30",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/LIVE-CHANNEL-IPTV/Live_Channels_1.30.486268164.apk"
+            }
+            {
+                "name": "TVirl IPTV",
+                "developer": "Ứng dụng chỉ dành cho Google TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TVirl-IPTV.png",
+                "installs": "",
+                "desc": "Phiên bản 1.30",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/LIVE-CHANNEL-IPTV/TVirl.IPTV-for-Android-TV.apk"
             }
         ]
     },
