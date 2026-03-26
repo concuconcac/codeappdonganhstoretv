@@ -75,6 +75,14 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/monster.apk"
             },
             {
+                "name": "Vừa Mới Thấy",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Vuamoithay-TV.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Vuamoithay_vmtv3.0.0.0.apk"
+            },
+            {
                 "name": "SportsTV",
                 "developer": "",
                 "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/sportv.png",
@@ -115,12 +123,52 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
             },
             {
-                "name": "Vừa Mới Thấy",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Vuamoithay-TV.png",
+                "name": "FPT Play",
+                "developer": "Phiên bản dành cho Android TV",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
                 "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Vuamoithay_vmtv3.0.0.0.apk"
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "VTV Go",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "VTV Prime",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "SCTV Online",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "VTVCab ON",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "MyTV",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
             },
             {
                 "name": "OTT Navigator Premium",
@@ -1223,7 +1271,7 @@
                 "installs": "",
                 "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/TV_Bro.apk"
-            }
+            },
             {
                 "name": "Cốc Cốc Lite",
                 "developer": "Trình duyệt dành cho Android TV",
