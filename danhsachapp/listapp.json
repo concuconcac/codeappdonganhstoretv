@@ -1025,7 +1025,7 @@
         ]
     },
     {
-        "category": "TRÒ CHƠI - GAME CHO TV",
+        "category": "KHO ỨNG DỤNG - TRÌNH DUYỆT WEB",
         "items": [
             {
                 "name": "Emet Surf",
@@ -1115,6 +1115,43 @@
                 "desc": "Kho ứng dụng Emotn ✅",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
             }
+        ]
+    },
+    {
+        "category": "KHO ỨNG DỤNG - TRÌNH DUYỆT WEB",
+        "items": [
+            {
+                "name": "Emet Surf",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
+                "installs": "",
+                "desc": "Trình Duyệt Web All In One",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emet.apk"
+            },
+            {
+                "name": "JioSphere",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRP17syNycSI-U3itXnuDD3c-BHdktZK2y-jVP1LrrF7g&s",
+                "installs": "",
+                "desc": "Trình Duyệt Web Đầy Đủ",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/jiosphere.apk"
+            },
+            {
+                "name": "Ferrari Downloader Store (MOD)",
+                "developer": "",
+                "icon": "https:\/\/m.media-amazon.com\/images\/I\/31KVvZnHbuL.png",
+                "installs": "",
+                "desc": "Kho ứng dụng mod hay ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ferraridownloader.apk"
+            },
+            {
+                "name": "AptoideTV",
+                "developer": "",
+                "icon": "https:\/\/images.sftcdn.net\/images\/t_app-icon-m\/p\/ce9b1536-96d0-11e6-b886-00163ed833e7\/247507360\/aptoide-logo",
+                "installs": "",
+                "desc": "Kho ứng dụng",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/aptoidetv.apk"
+            },
             {
                 "name": "DL Store",
                 "developer": "",
