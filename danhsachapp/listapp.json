@@ -272,20 +272,12 @@
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
             },
             {
-                "name": "MonPlayer TV",
-                "developer": "Luôn là phiên bản mới nhất",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
+                "name": "GetOut",
+                "developer": "App xem bóng đá miễn phí ⚽",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
                 "installs": "",
-                "desc": "Chơi tất cả nội dung bạn thích!.",
-                "apk_url": "https:\/\/monplayer.org\/tv"
-            },
-            {
-                "name": "Stremio",
-                "developer": "",
-                "icon": "https:\/\/www.stremio.com\/website\/stremio-purple-small.png",
-                "installs": "",
-                "desc": "Xem phim torrent",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/stremiotv.apk"
+                "desc": "Luôn cập nhật phiên bản mới nhất 🟢",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Get_Out.apk"
             },
             {
                 "name": "Vua Giải Trí (TV)",
@@ -294,6 +286,30 @@
                 "installs": "",
                 "desc": "Truyền Hình - Thể Thao - Phim 🤩",
                 "apk_url": "https:\/\/github.com\/manhnv699\/vuagiaitri\/releases\/download\/tv-app-armeabi-v7a\/tv-app-armeabi-v7a.apk"
+            },
+            {
+                "name": "MonPlayer TV",
+                "developer": "Luôn là phiên bản mới nhất",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
+                "installs": "",
+                "desc": "Chơi tất cả nội dung bạn thích!.",
+                "apk_url": "https:\/\/monplayer.org\/tv"
+            },
+            {
+                "name": "Phim30",
+                "developer": "Ứng dụng xem phim miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Phim-30.png",
+                "installs": "",
+                "desc": "Luôn cập nhật phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30_v2v1.0.24.apk"
+            },
+            {
+                "name": "Stremio",
+                "developer": "",
+                "icon": "https:\/\/www.stremio.com\/website\/stremio-purple-small.png",
+                "installs": "",
+                "desc": "Xem phim torrent",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/stremiotv.apk"
             },
             {
                 "name": "Kodi (MOD) 32bit",
@@ -440,20 +456,20 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vlc.apk"
             },
             {
-                "name": "Phim 4K (Link khác)",
-                "developer": "",
-                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "name": "Netflix Fake miễn phí",
+                "developer": "Ứng dụng xem phim NetFlix, HBO,...lậu",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netflix.png",
                 "installs": "",
-                "desc": "Bản Phim 4K Link tải khác",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/phim4k.apk"
+                "desc": "Bạn đang sử dụng phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Netflix_v9.50.0_MOD.apk"
             },
             {
-                "name": "Phim4K (Lite)",
-                "developer": "",
-                "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
+                "name": "Netflix Mobile",
+                "developer": "Netflix bản gốc",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netflix.png",
                 "installs": "",
-                "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa FullHD",
-                "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv32"
+                "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa HD",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Netflix_Mobile.apk"
             },
             {
                 "name": "Kodi (MOD) 64bit",
@@ -481,35 +497,27 @@
             },
             {
                 "name": "Netfly TV",
-                "developer": "Luôn là phiên bản mới nhất",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https:\/\/i.postimg.cc\/j5wb4sW-x\/f-O.png",
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https:\/\/netflyapp.com\/file\/netfly_tv.apk"
             },
             {
-                "name": "NVC Movie TV",
-                "developer": "",
-                "icon": "https:\/\/purepng.com\/public\/uploads\/large\/purepng.com-play-movies-icon-android-lollipopsymbolsiconsgooglegoogle-iconsandroid-lollipoplollipop-iconsandroid-50-721522597265r557u.png",
+                "name": "NVC phim",
+                "developer": "Ứng dụng xem phim miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/NVC_Movie.webp",
                 "installs": "",
-                "desc": "Xem Phim Miễn Phí",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/nvc.apk"
-            },
-            {
-                "name": "Phim30",
-                "developer": "",
-                "icon": "https:\/\/img.pikbest.com\/origin\/10\/49\/11\/85tpIkbEsTcjq.png!sw800",
-                "installs": "",
-                "desc": "Xem phim miễn phí",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/phim30.apk"
+                "desc": "Luôn là phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/NVC_Movie.apk"
             },
             {
                 "name": "Rổ Phim Fake",
-                "developer": "",
+                "developer": "Ứng dụng xem phim miễn phí",
                 "icon": "https:\/\/cdn2.tuoitre.vn\/zoom\/700_700\/471584752817336320\/2026\/2\/5\/627127918-1490429379111594-9220538697976330302-n-copy-1770265011500300512150-400-0-1172-1475-crop-17702650475791941049916.jpg",
                 "installs": "",
-                "desc": "Rổ phim fake ",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rophimf.apk"
+                "desc": "Bạn đang sử dụng phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/rophimm.apk"
             },
             {
                 "name": "VAX",
@@ -518,14 +526,6 @@
                 "installs": "",
                 "desc": "Xem phim miễn phí",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vax.apk"
-            },
-            {
-                "name": "NVC Phim 2",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/jh9ddh1JLsCtlSOnwhBoZMNqHefuIQxGAmkqItviNrloX9QNvYlvNdzcc6yhXoQzJt4",
-                "installs": "",
-                "desc": "Phim miễn phí",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/nvcp.apk"
             },
             {
                 "name": "PCR TV",
@@ -542,14 +542,6 @@
                 "installs": "",
                 "desc": "Đá bóng miễn phí",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sportsfire.apk"
-            },
-            {
-                "name": "GetOut",
-                "developer": "App xem bóng đá miễn phí ⚽",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
-                "installs": "",
-                "desc": "Luôn cập nhật phiên bản mới nhất 🟢",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Get_Out.apk"
             },
             {
                 "name": "Hiếu Gà Cinema",
@@ -1223,6 +1215,22 @@
                 "installs": "",
                 "desc": "Kho ứng dụng Emotn ✅",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
+            },
+            {
+                "name": "TV Bro",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TV_Bro.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/TV_Bro.apk"
+            }
+            {
+                "name": "Cốc Cốc Lite",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
             }
         ]
     }
