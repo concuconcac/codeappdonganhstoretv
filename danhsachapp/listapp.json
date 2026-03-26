@@ -297,7 +297,7 @@
                 "installs": "",
                 "desc": "Phiên bản 1.30",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/LIVE-CHANNEL-IPTV/Live_Channels_1.30.486268164.apk"
-            }
+            },
             {
                 "name": "TVirl IPTV",
                 "developer": "Ứng dụng chỉ dành cho Google TV",
@@ -654,7 +654,7 @@
                 "installs": "500+",
                 "desc": "OP Play – Phim & Anime tự hào là nền tảng xem phim online dẫn đầu xu hướng.",
                 "apk_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hn.movie_android"
-            }
+            },
             {
                 "name": "Spotify",
                 "developer": "Hoang Ngoc",
@@ -739,6 +739,38 @@
                 "installs": "",
                 "desc": "VPN NGA (MOD)",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
+            },
+            {
+                "name": "Sing box",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/rupanh123-phap\/refs\/heads\/main\/vpnnga.png",
+                "installs": "",
+                "desc": "VPN NGA (MOD)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
+            },
+            {
+                "name": "Surfboard",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/rupanh123-phap\/refs\/heads\/main\/vpnnga.png",
+                "installs": "",
+                "desc": "VPN NGA (MOD)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
+            },
+            {
+                "name": "V2rayNG",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/rupanh123-phap\/refs\/heads\/main\/vpnnga.png",
+                "installs": "",
+                "desc": "VPN NGA (MOD)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
+            },
+            {
+                "name": "VPN Hotspot",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/rupanh123-phap\/refs\/heads\/main\/vpnnga.png",
+                "installs": "",
+                "desc": "VPN NGA (MOD)",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
             }
         ]
     },
@@ -779,6 +811,30 @@
             },
             {
                 "name": "RS File Manager File Explorer",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
+            },
+            {
+                "name": "Root Explorer",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
+            },
+            {
+                "name": "SManager",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
+            },
+            {
+                "name": "Package Name Viewer",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
                 "installs": "",
@@ -979,6 +1035,14 @@
             },
             {
                 "name": "Remote ADB",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
+                "installs": "",
+                "desc": "Remote adb",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/radb.apk"
+            },
+            {
+                "name": "ADB Control",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
                 "installs": "",
@@ -1194,6 +1258,14 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/aplayer.apk"
             },
             {
+                "name": "PCAP Droid",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/vxkarvy-wCnMYFqKKjfAZgwZH3PZdY5fuhEtKa1kgpk5kLvdeI9xeoPI47i42pCCId0",
+                "installs": "",
+                "desc": "Aplayer😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/aplayer.apk"
+            },
+            {
                 "name": "Vimu (MOD)",
                 "developer": "Phiên bản: 11.0.1",
                 "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
@@ -1397,6 +1469,54 @@
             },
             {
                 "name": "Cốc Cốc Lite",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Kiwi Browser",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Chrome",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Firefox",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Microsoft EDGE",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Brave",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
+            },
+            {
+                "name": "Opera Mini",
                 "developer": "Trình duyệt dành cho Android TV",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
                 "installs": "",
