@@ -952,35 +952,6 @@
                 "installs": "",
                 "desc": "Telegram cho TV",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/telegramtv.apk"
-            }
-        ]
-    },
-    {
-        "category": "GIAO DIỆN",
-        "items": [
-            {
-                "name": "ATV Launcher PRO",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/K9ezslXnY0Y_SvZrjV3wWQkbnViIDKUAFVUA6PyzMpveV661gnuBKLiwngfAhagxXko=w526-h296-rw",
-                "installs": "",
-                "desc": "Giao diện đơn giản😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/atvlauncher.apk"
-            },
-            {
-                "name": "Projectivy Launcher (MOD)",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
-                "installs": "",
-                "desc": "Giao diện đẹp đơn giản😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/prolauncher.apk"
-            },
-            {
-                "name": "Thay đổi giao diện",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTC7SMes5z4Yap2rUWUioxisEXXGN7t_eMTwQ&s",
-                "installs": "",
-                "desc": "Thay đổi giao diện mặc định 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tdgd.apk"
             },
             {
                 "name": "Just Player",
@@ -1013,6 +984,43 @@
                 "installs": "",
                 "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            }
+        ]
+    },
+    {
+        "category": "GIAO DIỆN",
+        "items": [
+            {
+                "name": "ATV Launcher PRO",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/K9ezslXnY0Y_SvZrjV3wWQkbnViIDKUAFVUA6PyzMpveV661gnuBKLiwngfAhagxXko=w526-h296-rw",
+                "installs": "",
+                "desc": "Giao diện đơn giản😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/atvlauncher.apk"
+            },
+            {
+                "name": "Projectivy Launcher (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
+                "installs": "",
+                "desc": "Giao diện đẹp đơn giản😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/prolauncher.apk"
+            },
+            {
+                "name": "Thay đổi giao diện",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTC7SMes5z4Yap2rUWUioxisEXXGN7t_eMTwQ&s",
+                "installs": "",
+                "desc": "Thay đổi giao diện mặc định 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tdgd.apk"
+            },
+            {
+                "name": "HomeTV",
+                "developer": "Phiên bản Crack 2026-Miễn phí 100%",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/HomeTV.png",
+                "installs": "",
+                "desc": "Phiên bản cập nhật thường xuyên 😁",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/HOME-TV/VietNamTvHome_Final_v2.apk"
             },
             {
                 "name": "Emotn Launcher",
@@ -1021,6 +1029,22 @@
                 "installs": "",
                 "desc": "Giao diện đơn giản ",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emotn.apk"
+            },
+            {
+                "name": "Leanback On Fire",
+                "developer": "Giao diện dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/LeanbackOnFire-Launcher.png",
+                "installs": "",
+                "desc": "Hỗ trợ cho Android 5 trở lên",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/LeanbackOnFire/LeanbackOnFire_v1.63-goc.apk"
+            },
+            {
+                "name": "Ugoos Launcher",
+                "developer": "Giao diện dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ugoos-Launcher.webp",
+                "installs": "",
+                "desc": "Hỗ trợ cho Android 5 trở lên",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/UGOOS-LAUNCHER/Ugoos-Launcher.apk"
             }
         ]
     },
