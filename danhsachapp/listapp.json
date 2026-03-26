@@ -376,7 +376,31 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30_v2v1.0.24.apk"
             },
             {
+                "name": "Boba TV",
+                "developer": "Ứng dụng xem phim miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Phim-30.png",
+                "installs": "",
+                "desc": "Luôn cập nhật phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30_v2v1.0.24.apk"
+            },
+            {
+                "name": "Galaxy Play",
+                "developer": "Ứng dụng xem phim miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Phim-30.png",
+                "installs": "",
+                "desc": "Luôn cập nhật phiên bản mới nhất",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30_v2v1.0.24.apk"
+            },
+            {
                 "name": "Stremio",
+                "developer": "",
+                "icon": "https:\/\/www.stremio.com\/website\/stremio-purple-small.png",
+                "installs": "",
+                "desc": "Xem phim torrent",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/stremiotv.apk"
+            },
+            {
+                "name": "Apple TV",
                 "developer": "",
                 "icon": "https:\/\/www.stremio.com\/website\/stremio-purple-small.png",
                 "installs": "",
@@ -533,6 +557,14 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netflix.png",
                 "installs": "",
                 "desc": "Dành cho box yếu . Chất lượng chỉ đạt tối đa HD",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Netflix_Mobile.apk"
+            },
+            {
+                "name": "Netflix 4K",
+                "developer": "Netflix bản gốc dành cho TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netflix.png",
+                "installs": "",
+                "desc": "Dành cho các box có chứng chỉ Netflix",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Netflix_Mobile.apk"
             },
             {
@@ -954,6 +986,14 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tkgn.apk"
             },
             {
+                "name": "Google Android TV",
+                "developer": "Minh Tâm",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
+                "installs": "",
+                "desc": "Lối tắt tìm kiếm giọng nói 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tkgn.apk"
+            },
+            {
                 "name": "Bàn Phím Android TV",
                 "developer": "",
                 "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/kbatv.png",
@@ -1272,7 +1312,31 @@
                 "installs": "",
                 "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vimu.apk"
-            }
+            },
+            {
+                "name": "Zoom",
+                "developer": "Phiên bản: 11.0.1",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "installs": "",
+                "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            },
+            {
+                "name": "Teamview",
+                "developer": "Phiên bản: 11.0.1",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "installs": "",
+                "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            },
+            {
+                "name": "Any Desk",
+                "developer": "Phiên bản: 11.0.1",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "installs": "",
+                "desc": "Vimu là ứng dụng trình phát đa phương tiện nâng cao dành cho Android TV, Fire TV hoặc Google TV của bạn.\r\nPhiên bản đã được mod việt hoá",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vimu.apk"
+            },
         ]
     },
     {
