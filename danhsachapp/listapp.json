@@ -11,22 +11,6 @@
                 "apk_url": "https://github.com/concuconcac/truyenhinhlonto/raw/refs/heads/main/DONGANH-TV/DongAnhTV_v2.apk"
             },
             {
-                "name": "Imedia TV",
-                "developer": "",
-                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
-            },
-            {
-                "name": "VAppTV",
-                "developer": "",
-                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
-                "installs": "",
-                "desc": "Truyền Hình 😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
-            },
-            {
                 "name": "Cò Tivi",
                 "developer": "",
                 "icon": "https:\/\/i.ibb.co\/mrVGbpdk\/cotivi.png",
@@ -35,12 +19,20 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cotivi.apk"
             },
             {
-                "name": "TV360 (MOD)",
+                "name": "VietPlay TV",
                 "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
+                "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
                 "installs": "",
-                "desc": "Truyền Hình - Bóng Đá 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tv360.apk"
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vietplaytv.apk"
+            },
+            {
+                "name": "Imedia TV",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
             },
             {
                 "name": "DL Tivi",
@@ -51,12 +43,20 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/dltv.apk"
             },
             {
-                "name": "VietPlay TV",
+                "name": "VAppTV",
                 "developer": "",
-                "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
+                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
                 "installs": "",
-                "desc": "Truyền Hình 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vietplaytv.apk"
+                "desc": "Truyền Hình 😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
+            },
+            {
+                "name": "TV360 (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tv360.apk"
             },
             {
                 "name": "QuanTV",
