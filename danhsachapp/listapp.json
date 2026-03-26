@@ -642,6 +642,38 @@
         "category": "TIỆN ÍCH",
         "items": [
             {
+                "name": "Xplorer File Manager Premium",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
+                "installs": "",
+                "desc": "Quản lý tập tin không quảng cáo😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/xplorer.apk"
+            },
+            {
+                "name": "Quản Lý Tệp",
+                "developer": "",
+                "icon": "https:\/\/img.freepik.com\/premium-vector\/file-manager-icon_915059-5.jpg",
+                "installs": "",
+                "desc": "Quản lý tập tin😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/qlt.apk"
+            },
+            {
+                "name": "Mixplorer Premium",
+                "developer": "",
+                "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple113\/v4\/a3\/eb\/6e\/a3eb6ef2-36b6-1f7f-416e-4b2595bf5e2b\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\/1024x1024bb.png",
+                "installs": "",
+                "desc": "Quản lý tập tin😁",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/mixp.apk"
+            },
+            {
+                "name": "RS File Manager File Explorer",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
+            },
+            {
                 "name": "Tất Cả Ứng Dụng (MOD)",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/G-3hJES5hozl1a9lRcr5WdDayEGGANF0LzUsf8ZCoL1wICVoo2RHRYO1lGeA0ssRn3k=w240-h480-rw",
@@ -916,40 +948,8 @@
         ]
     },
     {
-        "category": "GIAO DIỆN - QUẢN LÝ FILE",
+        "category": "GIAO DIỆN",
         "items": [
-            {
-                "name": "Xplorer File Manager Premium",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
-                "installs": "",
-                "desc": "Quản lý tập tin không quảng cáo😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/xplorer.apk"
-            },
-            {
-                "name": "Quản Lý Tệp",
-                "developer": "",
-                "icon": "https:\/\/img.freepik.com\/premium-vector\/file-manager-icon_915059-5.jpg",
-                "installs": "",
-                "desc": "Quản lý tập tin😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/qlt.apk"
-            },
-            {
-                "name": "Mixplorer Premium",
-                "developer": "",
-                "icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple113\/v4\/a3\/eb\/6e\/a3eb6ef2-36b6-1f7f-416e-4b2595bf5e2b\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\/1024x1024bb.png",
-                "installs": "",
-                "desc": "Quản lý tập tin😁",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/mixp.apk"
-            },
-            {
-                "name": "RS File Manager File Explorer",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
-                "installs": "",
-                "desc": "Quản lý tập tin",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rsfile.apk"
-            },
             {
                 "name": "ATV Launcher PRO",
                 "developer": "",
