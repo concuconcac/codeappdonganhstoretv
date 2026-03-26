@@ -642,6 +642,14 @@
         "category": "TIỆN ÍCH",
         "items": [
             {
+                "name": "Downloader VIP",
+                "developer": "Phiên bản tiếng Việt 100%",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Downloader.webp",
+                "installs": "",
+                "desc": "Việt hoá bởi Donganhshop.com",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/Downloader/Downloader_Pro_DonganhShop.apk"
+            },
+            {
                 "name": "Xplorer File Manager Premium",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
@@ -1034,14 +1042,6 @@
                 "installs": "",
                 "desc": "Trình Duyệt Web Đầy Đủ",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/jiosphere.apk"
-            },
-            {
-                "name": "Downloader VIP",
-                "developer": "Phiên bản tiếng Việt 100%",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Downloader.webp",
-                "installs": "",
-                "desc": "Việt hoá bởi Donganhshop.com",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/Downloader/Downloader_Pro_DonganhShop.apk"
             },
             {
                 "name": "AptoideTV",
