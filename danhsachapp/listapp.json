@@ -232,6 +232,30 @@
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
             {
+                "name": "TizenTube",
+                "developer": "Phiên bản luôn là mới nhất",
+                "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
+                "installs": "",
+                "desc": "Tizentube phiên bản dành cho Android TV",
+                "apk_url": "https://github.com/reisxd/TizenTube/releases/download/v1.1.3/app-armeabi-v7a-debug.apk"
+            },
+            {
+                "name": "SmartTube",
+                "developer": "Phiên bản: 31.17",
+                "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
+                "installs": "",
+                "desc": "Chặn quảng cáo YouTube TV 💌",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/SmartTube/SmartTube_x86.apk"
+            },
+            {
+                "name": "YouTube (No ads)",
+                "developer": "Lưu ý: Yêu cầu gỡ bản Youtube gốc trên thiết bị ra",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/smtb.png",
+                "installs": "",
+                "desc": "Phiên bản dành cho Android TV",
+                "apk_url": "https://github.com/JackieDo/Cobalt-Tube/releases/download/v1.10.1/cobalttube-arm.apk"
+            },
+            {
                 "name": "Phim 4K (TV)",
                 "developer": "Luôn là phiên bản mới nhất",
                 "icon": "https:\/\/i.postimg.cc\/3RfHN517\/Picsart-25-11-10-13-53-28-889.jpg",
@@ -288,14 +312,6 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emby.apk"
             },
             {
-                "name": "SmartTube",
-                "developer": "Phiên bản: 31.17",
-                "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
-                "installs": "",
-                "desc": "Chặn quảng cáo YouTube TV 💌",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/SmartTube/SmartTube_x86.apk"
-            },
-            {
                 "name": "YouTube Revanced (MOD)",
                 "developer": "",
                 "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/smtb.png",
@@ -318,14 +334,6 @@
                 "installs": "",
                 "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tizentubemod.apk"
-            },
-            {
-                "name": "TizenTube ",
-                "developer": "Phiên bản luôn là mới nhất",
-                "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
-                "installs": "",
-                "desc": "Tizentube Nguyên Gốc.Chặn quảng cáo, YouTube TV ❤️",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tizentubegoc.apk"
             },
             {
                 "name": "Newpipe",
