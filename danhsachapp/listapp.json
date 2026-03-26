@@ -48,7 +48,7 @@
                 "icon": "https:\/\/vapptv.com\/vapp-logo.png",
                 "installs": "",
                 "desc": "Truyền Hình 😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/vAppTV_1.0.2_20250619.apk"
             },
             {
                 "name": "TV360 (MOD)",
@@ -117,10 +117,10 @@
             {
                 "name": "Vừa Mới Thấy",
                 "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/vuamoithay.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Vuamoithay-TV.png",
                 "installs": "",
                 "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https:\/\/github.com\/viktorwawick\/apk\/releases\/download\/1.0\/vmtmod2.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Vuamoithay_vmtv3.0.0.0.apk"
             },
             {
                 "name": "OTT Navigator Premium",
@@ -272,7 +272,7 @@
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
             },
             {
-                "name": "GetOut",
+                "name": "Get Out",
                 "developer": "App xem bóng đá miễn phí ⚽",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
                 "installs": "",
@@ -1044,6 +1044,30 @@
         "category": "KHO ỨNG DỤNG - TRÌNH DUYỆT WEB",
         "items": [
             {
+                "name": "TTV Store",
+                "developer": "Minh Tâm VN",
+                "icon": "https:\/\/i.ibb.co\/kFRnq3g\/5p.png",
+                "installs": "",
+                "desc": "Kho ứng dụng hay nhất",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
+            },
+            {
+                "name": "DL Store",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl5croHG9fWW199IYHCUWg25G732Y1srdVjA&s",
+                "installs": "",
+                "desc": "Kho ứng dụng - Đình Lập",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/DLStore_v16.apk"
+            },
+            {
+                "name": "MStore",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
+                "installs": "",
+                "desc": "Kho ứng dụng - Tùng Bùi",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/mstore.apk"
+            },
+            {
                 "name": "Emet Surf",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
@@ -1068,36 +1092,12 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/aptoidetv.apk"
             },
             {
-                "name": "DL Store",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl5croHG9fWW199IYHCUWg25G732Y1srdVjA&s",
-                "installs": "",
-                "desc": "Kho ứng dụng - Đình Lập",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/dlstore.apk"
-            },
-            {
-                "name": "MStore",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
-                "installs": "",
-                "desc": "Kho ứng dụng - Tùng Bùi",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/mstore.apk"
-            },
-            {
                 "name": "HDPlay Store",
                 "developer": "",
                 "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/hdplaystore.png",
                 "installs": "",
                 "desc": "Kho ứng dụng",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/hdplaystore.apk"
-            },
-            {
-                "name": "TTV Store",
-                "developer": "Minh Tâm VN",
-                "icon": "https:\/\/i.ibb.co\/kFRnq3g\/5p.png",
-                "installs": "",
-                "desc": "Kho ứng dụng hay nhất",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
             },
             {
                 "name": "Bảo Store",
