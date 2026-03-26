@@ -19,6 +19,14 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cotivi.apk"
             },
             {
+                "name": "Get Out",
+                "developer": "App xem bóng đá miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
+                "installs": "",
+                "desc": "Luôn cập nhật phiên bản mới nhất 🟢",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Get_Out.apk"
+            },
+            {
                 "name": "VietPlay TV",
                 "developer": "",
                 "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
@@ -293,7 +301,7 @@
                 "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 5 trở lên",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/SmartTube/SmartTube_x86.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/SMART-TUBE/SmartTube.apk"
             },
             {
                 "name": "YouTube (No ads)",
@@ -318,14 +326,6 @@
                 "installs": "50 Tr+",
                 "desc": "Xem phim Miễn Phí-Hỗ trợ Android 9 trở lên",
                 "apk_url": "https:\/\/phim4k.xyz\/downloads\/androidtv"
-            },
-            {
-                "name": "Get Out",
-                "developer": "App xem bóng đá miễn phí ⚽",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
-                "installs": "",
-                "desc": "Luôn cập nhật phiên bản mới nhất 🟢",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Get_Out.apk"
             },
             {
                 "name": "Vua Giải Trí (TV)",
@@ -398,14 +398,6 @@
                 "installs": "",
                 "desc": "Để đăng nhập YouTube Revanced ✅ Yêu cầu phải cài MicroG",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/microg.apk"
-            },
-            {
-                "name": "TizenTube (MOD)",
-                "developer": "Phiên bản luôn là mới nhất",
-                "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
-                "installs": "",
-                "desc": "Chặn quảng cáo, Chạy song song YouTube gốc ❤️ Đổi giống YouTube - Voice vs KiKi , Supervoice",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tizentubemod.apk"
             },
             {
                 "name": "Newpipe",
@@ -505,7 +497,7 @@
             },
             {
                 "name": "Netflix Fake miễn phí",
-                "developer": "Ứng dụng xem phim NetFlix, HBO,...lậu",
+                "developer": "Ứng dụng xem phim NetFlix",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netflix.png",
                 "installs": "",
                 "desc": "Bạn đang sử dụng phiên bản mới nhất",
