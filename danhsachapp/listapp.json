@@ -658,30 +658,6 @@
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/happychick.apk"
             },
             {
-                "name": "RetroArch",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s",
-                "installs": "",
-                "desc": "Giả Lập Game Nes, PSP..Full ổn định😘",
-                "apk_url": "https:\/\/buildbot.libretro.com\/stable\/1.21.0\/android\/RetroArch.apk"
-            },
-            {
-                "name": "PPSSPP Gold (MOD VIP)",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
-                "installs": "",
-                "desc": "Giả Lập Game PS1😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ppsspp.apk"
-            },
-            {
-                "name": "Nes.emu (MOD VIP)",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQINo3quAXjvh7BeWWUVWIjzIEcYuWUmVEVRw&s",
-                "installs": "",
-                "desc": "Giả Lập Game Nes😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/nes.emu.apk"
-            },
-            {
                 "name": "Button Mapper (MOD)",
                 "developer": "",
                 "icon": "https:\/\/play-lh.googleusercontent.com\/nsmWhzYhXDbxGqE-Z9iUFFQXuFJqtaEgucwCVMoozpnUSkjkyxBVe2pPXG3WSbqN6Q",
@@ -1118,31 +1094,31 @@
         ]
     },
     {
-        "category": "KHO ỨNG DỤNG - TRÌNH DUYỆT WEB",
+        "category": "TRÒ CHƠI - GAME CHO TV",
         "items": [
             {
-                "name": "Emet Surf",
+                "name": "Nes.emu (MOD VIP)",
                 "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQINo3quAXjvh7BeWWUVWIjzIEcYuWUmVEVRw&s",
                 "installs": "",
-                "desc": "Trình Duyệt Web All In One",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emet.apk"
+                "desc": "Giả Lập Game Nes😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/nes.emu.apk"
             },
             {
-                "name": "JioSphere",
+                "name": "PPSSPP Gold (MOD VIP)",
                 "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRP17syNycSI-U3itXnuDD3c-BHdktZK2y-jVP1LrrF7g&s",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/10fZZfOPjwESHD3wFAZx65m6uwDxMqj2yokiSlOwJzrqxokol9Qc1hwMQnZOWTCtgB4",
                 "installs": "",
-                "desc": "Trình Duyệt Web Đầy Đủ",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/jiosphere.apk"
+                "desc": "Giả Lập Game PS1😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ppsspp.apk"
             },
             {
-                "name": "Ferrari Downloader Store (MOD)",
+                "name": "RetroArch",
                 "developer": "",
-                "icon": "https:\/\/m.media-amazon.com\/images\/I\/31KVvZnHbuL.png",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/bWf-MxH7kV88rrx27MgFB24V8gHd1C3s1ojYq4viPFtMOdtMy60PKVAkh69LLns6c4s",
                 "installs": "",
-                "desc": "Kho ứng dụng mod hay ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ferraridownloader.apk"
+                "desc": "Giả Lập Game Nes, PSP..Full ổn định😘",
+                "apk_url": "https:\/\/buildbot.libretro.com\/stable\/1.21.0\/android\/RetroArch.apk"
             },
             {
                 "name": "AptoideTV",
