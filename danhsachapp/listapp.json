@@ -133,7 +133,7 @@
             {
                 "name": "FPT Play",
                 "developer": "Phiên bản dành cho Android TV",
-                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/FPT-PLAY.webp",
                 "installs": "",
                 "desc": "Truyền Hình",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/FPT_Play_TV.apk"
@@ -141,7 +141,7 @@
             {
                 "name": "VTV Go",
                 "developer": "Phiên bản dành cho Android TV",
-                "icon": "hhttps://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VTV-GO.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VTV-GO.png",
                 "installs": "",
                 "desc": "Truyền Hình",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/VTVgo_TV.apk"
@@ -173,7 +173,7 @@
             {
                 "name": "MyTV",
                 "developer": "Phiên bản dành cho Android TV",
-                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MyTV.png",
                 "installs": "",
                 "desc": "Truyền Hình",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/MyTV_For_Smart_TV.apk"
@@ -1162,11 +1162,27 @@
                 "installs": "",
                 "desc": "Kho ứng dụng Emotn ✅",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
+            },
+            {
+                "name": "TV Bro",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TV_Bro.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/TV_Bro.apk"
+            },
+            {
+                "name": "Cốc Cốc Lite",
+                "developer": "Trình duyệt dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
+                "installs": "",
+                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
             }
         ]
     },
     {
-        "category": "TRÒ CHƠI - GAME CHO TV",
+        "category": "TRÒ CHƠI - GAME",
         "items": [
             {
                 "name": "Nes.emu (MOD VIP)",
@@ -1191,86 +1207,6 @@
                 "installs": "",
                 "desc": "Giả Lập Game Nes, PSP..Full ổn định😘",
                 "apk_url": "https:\/\/buildbot.libretro.com\/stable\/1.21.0\/android\/RetroArch.apk"
-            },
-            {
-                "name": "AptoideTV",
-                "developer": "",
-                "icon": "https:\/\/images.sftcdn.net\/images\/t_app-icon-m\/p\/ce9b1536-96d0-11e6-b886-00163ed833e7\/247507360\/aptoide-logo",
-                "installs": "",
-                "desc": "Kho ứng dụng",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/aptoidetv.apk"
-            },
-            {
-                "name": "DL Store",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQl5croHG9fWW199IYHCUWg25G732Y1srdVjA&s",
-                "installs": "",
-                "desc": "Kho ứng dụng - Đình Lập",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/dlstore.apk"
-            },
-            {
-                "name": "MStore",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
-                "installs": "",
-                "desc": "Kho ứng dụng - Tùng Bùi",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/mstore.apk"
-            },
-            {
-                "name": "HDPlay Store",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/hdplaystore.png",
-                "installs": "",
-                "desc": "Kho ứng dụng",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/hdplaystore.apk"
-            },
-            {
-                "name": "TTV Store",
-                "developer": "Minh Tâm VN",
-                "icon": "https:\/\/i.ibb.co\/kFRnq3g\/5p.png",
-                "installs": "",
-                "desc": "Kho ứng dụng hay nhất",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ttvstore.apk"
-            },
-            {
-                "name": "Bảo Store",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
-                "installs": "",
-                "desc": "Kho ứng dụng bảo ",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/baostore.apk"
-            },
-            {
-                "name": "APK Update",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/JVPqSUjWg9JYlw_KitvbDtmImVcINiW-eZITgdD92RQ4tV2F_WUOrVTkPmBamCUeZIo",
-                "installs": "",
-                "desc": "Kho ứng dụng thay thế google play✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/apkup.apk"
-            },
-            {
-                "name": "Emotn Store",
-                "developer": "",
-                "icon": "https:\/\/static.emotn.com\/img\/logo.png",
-                "installs": "",
-                "desc": "Kho ứng dụng Emotn ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/emotnstore.apk"
-            },
-            {
-                "name": "TV Bro",
-                "developer": "Trình duyệt dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TV_Bro.webp",
-                "installs": "",
-                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/TV_Bro.apk"
-            },
-            {
-                "name": "Cốc Cốc Lite",
-                "developer": "Trình duyệt dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Coccoc_lite_Tv.webp",
-                "installs": "",
-                "desc": "Phiên bản chỉ dành cho Android Box và Tivi Android",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Coccoc_lite_Tv.apk"
             }
         ]
     }
