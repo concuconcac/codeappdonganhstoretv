@@ -233,7 +233,7 @@
         "items": [
             {
                 "name": "TizenTube",
-                "developer": "Phiên bản dành cho Android TV",
+                "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
                 "icon": "https:\/\/yt3.googleusercontent.com\/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
@@ -241,7 +241,7 @@
             },
             {
                 "name": "SmartTube",
-                "developer": "Chặn quảng cáo YouTube TV",
+                "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
                 "icon": "https:\/\/img.utdstc.com\/icon\/b9f\/977\/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 5 trở lên",
@@ -249,11 +249,19 @@
             },
             {
                 "name": "YouTube (No ads)",
-                "developer": "Phiên bản dành cho Android TV",
+                "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
                 "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/smtb.png",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
                 "apk_url": "https://github.com/JackieDo/Cobalt-Tube/releases/download/v1.10.1/cobalttube-arm.apk"
+            },
+            {
+                "name": "Cài phím Voice cho Youtube",
+                "developer": "Chọn ứng dụng Youtube khác tìm kiếm giọng nói",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Cai-phim-Voice-cho-Youtube-1.png",
+                "installs": "",
+                "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/CAI%20PHIM%20VOICE%20YOUTUBE/Cai_Phim_Voice_YouToTube.apk"
             },
             {
                 "name": "Phim 4K (TV)",
