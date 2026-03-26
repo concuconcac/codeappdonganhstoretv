@@ -1,5 +1,234 @@
 [
     {
+        "category": "TRUYỀN HÌNH - IPTV",
+        "items": [
+            {
+                "name": "Đông Anh TV",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/truyenhinhlonto/refs/heads/main/DONGANH-TV/logo-donganhtv.png",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá😱",
+                "apk_url": "https://github.com/concuconcac/truyenhinhlonto/raw/refs/heads/main/DONGANH-TV/DongAnhTV_v2.apk"
+            },
+            {
+                "name": "Imedia TV",
+                "developer": "",
+                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
+            },
+            {
+                "name": "VAppTV",
+                "developer": "",
+                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
+                "installs": "",
+                "desc": "Truyền Hình 😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
+            },
+            {
+                "name": "Cò Tivi",
+                "developer": "",
+                "icon": "https:\/\/i.ibb.co\/mrVGbpdk\/cotivi.png",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cotivi.apk"
+            },
+            {
+                "name": "TV360 (MOD)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tv360.apk"
+            },
+            {
+                "name": "DL Tivi",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/gEpSxRbJNkN-bgnpX4khvulqP3a5ZOOgkbKw7CCg_-Ye4QHn5Kxh4nL-Ek_JhDc0Nwk",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/dltv.apk"
+            },
+            {
+                "name": "VietPlay TV",
+                "developer": "",
+                "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vietplaytv.apk"
+            },
+            {
+                "name": "QuanTV",
+                "developer": "",
+                "icon": "https:\/\/cdn-icons-png.flaticon.com\/512\/1801\/1801781.png",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/quantv.apk"
+            },
+            {
+                "name": "Monster TV",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQm43oFacKvlTLkp3FJ6i0GyTZYmGgQpXkTkSWo__BWbau-hY2cQcUK7CNS&s=10",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá 😱",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/monster.apk"
+            },
+            {
+                "name": "SportsTV",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/sportv.png",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sporstv.apk"
+            },
+            {
+                "name": "SportzX",
+                "developer": "",
+                "icon": "https:\/\/images.dwncdn.net\/images\/t_app-icon-l\/p\/ab9cd7e8-74a0-4df2-a22a-af300bc611ef\/774505182\/sportzx-football-live-tv-hd-logo",
+                "installs": "",
+                "desc": "Bóng Đá Live FHD ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sportzx.apk"
+            },
+            {
+                "name": "RBTV +",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/-q5lFRsHgU7T6jFE9XLzFJMlm1in2NoF9ibscFriWYu1HdoE5d6aOmJRtAKFomyd6Tjr",
+                "installs": "",
+                "desc": "Bóng Đá Live ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rbtv.apk"
+            },
+            {
+                "name": "Cricfy TV",
+                "developer": "",
+                "icon": "https:\/\/cricfys.com\/wp-content\/uploads\/cricfy-tv.webp",
+                "installs": "",
+                "desc": "Bóng Đá Live FHD ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cricfy.apk"
+            },
+            {
+                "name": "KK Play",
+                "developer": "",
+                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
+                "installs": "",
+                "desc": "Truyền Hình - Bóng Đá ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
+            },
+            {
+                "name": "Vừa Mới Thấy",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/vuamoithay.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/viktorwawick\/apk\/releases\/download\/1.0\/vmtmod2.apk"
+            },
+            {
+                "name": "OTT Navigator Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ott.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ott.apk"
+            },
+            {
+                "name": "M3U IPTV Premium",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/HAQ18Pg2JzUzcZFQ4qUWlIaxPwftQ0oAt1U1TMVYQR3hchn_Dtj36LTPdga6thCbKnA",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/m3u.apk"
+            },
+            {
+                "name": "OTT Navigator Premium (4.0)",
+                "developer": "",
+                "icon": "https:\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ott.png",
+                "installs": "",
+                "desc": "Dành Cho Android 4.0",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ott4.apk"
+            },
+            {
+                "name": "Lazy IPTV Premium",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTHztB46h1bZqhXWn93u1YDWE8oxXleLktQUA&s",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/lazy.apk"
+            },
+            {
+                "name": "WisePlay",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/_SHQjLM1rdpx-5EhldGl8yTLIb5tfBF5p_ELnto0XqON3WjKN07C3pDmKT6sob1ER3A",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/wiseplay.apk"
+            },
+            {
+                "name": "Perfect Player",
+                "developer": "",
+                "icon": "https:\/\/cdn6.aptoide.com\/imgs\/8\/0\/a\/80a5d324547619f2d16b622c88b55938_icon.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/pplayer.apk"
+            },
+            {
+                "name": "Televizo Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ip.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/televizof.apk"
+            },
+            {
+                "name": "Tivimate Premium",
+                "developer": "",
+                "icon": "https:\/\/downloadr2.apkmirror.com\/wp-content\/uploads\/2022\/10\/42\/634afd651f0b8.png",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tivimate.apk"
+            },
+            {
+                "name": "Sparkle TV (MOD Dexunpacker)",
+                "developer": "",
+                "icon": "https:\/\/play-lh.googleusercontent.com\/eYfJHADMYNZpqaiTslBETpzIoZdHiNT_IZ2hQ_pG8_gNG6hEfW2C6ENEEPaIvHNVOA",
+                "installs": "",
+                "desc": "Xem IPTV ✅",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sptv.apk"
+            },
+            {
+                "name": "IPTV Pro Premium",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/iptvpro.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/iptv.apk"
+            },
+            {
+                "name": "AceStream (MOD)",
+                "developer": "",
+                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ace.png",
+                "installs": "",
+                "desc": "Xem AceStream",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ace.apk"
+            },
+            {
+                "name": "Ace Server",
+                "developer": "",
+                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTnLqCRBJQhOeYiZsRG25shCS4FJKDcJ_sJ1mBRx-xPC_-YrxvM5o6f7Del&s=10",
+                "installs": "",
+                "desc": "Xem thể thao acestream",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/acesv.apk"
+            },
+            {
+                "name": "ONNA Online",
+                "developer": "",
+                "icon": "https:\/\/i.postimg.cc\/qvQ9rKCz\/S5.png",
+                "installs": "",
+                "desc": "Truyền hình cơ bản",
+                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/onna.apk"
+            }
+        ]
+    },
+    {
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
             {
@@ -390,235 +619,6 @@
                 "installs": "",
                 "desc": "VPN NGA (MOD)",
                 "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vpnnga.apk"
-            }
-        ]
-    },
-    {
-        "category": "TRUYỀN HÌNH - IPTV",
-        "items": [
-            {
-                "name": "Đông Anh TV",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/truyenhinhlonto/refs/heads/main/DONGANH-TV/logo-donganhtv.png",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá😱",
-                "apk_url": "https://github.com/concuconcac/truyenhinhlonto/raw/refs/heads/main/DONGANH-TV/DongAnhTV_v2.apk"
-            },
-            {
-                "name": "Imedia TV",
-                "developer": "",
-                "icon": "https:\/\/image.winudf.com\/v2\/image1\/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA\/icon.webp?w=140&fakeurl=1&type=.webp",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/imediatv.apk"
-            },
-            {
-                "name": "VAppTV",
-                "developer": "",
-                "icon": "https:\/\/vapptv.com\/vapp-logo.png",
-                "installs": "",
-                "desc": "Truyền Hình 😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vapptv.apk"
-            },
-            {
-                "name": "Cò Tivi",
-                "developer": "",
-                "icon": "https:\/\/i.ibb.co\/mrVGbpdk\/cotivi.png",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cotivi.apk"
-            },
-            {
-                "name": "TV360 (MOD)",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tv360.apk"
-            },
-            {
-                "name": "DL Tivi",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/gEpSxRbJNkN-bgnpX4khvulqP3a5ZOOgkbKw7CCg_-Ye4QHn5Kxh4nL-Ek_JhDc0Nwk",
-                "installs": "",
-                "desc": "Truyền Hình 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/dltv.apk"
-            },
-            {
-                "name": "VietPlay TV",
-                "developer": "",
-                "icon": "https:\/\/vietplayplus.com\/api\/public\/files\/vietplayplus-placeholder_bhParT8xG.jpg",
-                "installs": "",
-                "desc": "Truyền Hình 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/vietplaytv.apk"
-            },
-            {
-                "name": "QuanTV",
-                "developer": "",
-                "icon": "https:\/\/cdn-icons-png.flaticon.com\/512\/1801\/1801781.png",
-                "installs": "",
-                "desc": "Truyền Hình 😘",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/quantv.apk"
-            },
-            {
-                "name": "Monster TV",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQm43oFacKvlTLkp3FJ6i0GyTZYmGgQpXkTkSWo__BWbau-hY2cQcUK7CNS&s=10",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá 😱",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/monster.apk"
-            },
-            {
-                "name": "SportsTV",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/sportv.png",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sporstv.apk"
-            },
-            {
-                "name": "SportzX",
-                "developer": "",
-                "icon": "https:\/\/images.dwncdn.net\/images\/t_app-icon-l\/p\/ab9cd7e8-74a0-4df2-a22a-af300bc611ef\/774505182\/sportzx-football-live-tv-hd-logo",
-                "installs": "",
-                "desc": "Bóng Đá Live FHD ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sportzx.apk"
-            },
-            {
-                "name": "RBTV +",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/-q5lFRsHgU7T6jFE9XLzFJMlm1in2NoF9ibscFriWYu1HdoE5d6aOmJRtAKFomyd6Tjr",
-                "installs": "",
-                "desc": "Bóng Đá Live ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/rbtv.apk"
-            },
-            {
-                "name": "Cricfy TV",
-                "developer": "",
-                "icon": "https:\/\/cricfys.com\/wp-content\/uploads\/cricfy-tv.webp",
-                "installs": "",
-                "desc": "Bóng Đá Live FHD ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/cricfy.apk"
-            },
-            {
-                "name": "KK Play",
-                "developer": "",
-                "icon": "https:\/\/iaapa-web.s3.us-west-2.amazonaws.com\/public\/styles\/large_scale_480x480\/public\/2025-01\/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
-                "installs": "",
-                "desc": "Truyền Hình - Bóng Đá ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/kkplay.apk"
-            },
-            {
-                "name": "Vừa Mới Thấy",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/vuamoithay.png",
-                "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https:\/\/github.com\/viktorwawick\/apk\/releases\/download\/1.0\/vmtmod2.apk"
-            },
-            {
-                "name": "OTT Navigator Premium",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ott.png",
-                "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ott.apk"
-            },
-            {
-                "name": "M3U IPTV Premium",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/HAQ18Pg2JzUzcZFQ4qUWlIaxPwftQ0oAt1U1TMVYQR3hchn_Dtj36LTPdga6thCbKnA",
-                "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/m3u.apk"
-            },
-            {
-                "name": "OTT Navigator Premium (4.0)",
-                "developer": "",
-                "icon": "https:\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ott.png",
-                "installs": "",
-                "desc": "Dành Cho Android 4.0",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ott4.apk"
-            },
-            {
-                "name": "Lazy IPTV Premium",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTHztB46h1bZqhXWn93u1YDWE8oxXleLktQUA&s",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/lazy.apk"
-            },
-            {
-                "name": "WisePlay",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/_SHQjLM1rdpx-5EhldGl8yTLIb5tfBF5p_ELnto0XqON3WjKN07C3pDmKT6sob1ER3A",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/wiseplay.apk"
-            },
-            {
-                "name": "Perfect Player",
-                "developer": "",
-                "icon": "https:\/\/cdn6.aptoide.com\/imgs\/8\/0\/a\/80a5d324547619f2d16b622c88b55938_icon.png",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/pplayer.apk"
-            },
-            {
-                "name": "Televizo Premium",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ip.png",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/televizof.apk"
-            },
-            {
-                "name": "Tivimate Premium",
-                "developer": "",
-                "icon": "https:\/\/downloadr2.apkmirror.com\/wp-content\/uploads\/2022\/10\/42\/634afd651f0b8.png",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/tivimate.apk"
-            },
-            {
-                "name": "Sparkle TV (MOD Dexunpacker)",
-                "developer": "",
-                "icon": "https:\/\/play-lh.googleusercontent.com\/eYfJHADMYNZpqaiTslBETpzIoZdHiNT_IZ2hQ_pG8_gNG6hEfW2C6ENEEPaIvHNVOA",
-                "installs": "",
-                "desc": "Xem IPTV ✅",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/sptv.apk"
-            },
-            {
-                "name": "IPTV Pro Premium",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/iptvpro.png",
-                "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/iptv.apk"
-            },
-            {
-                "name": "AceStream (MOD)",
-                "developer": "",
-                "icon": "https:\/\/raw.githubusercontent.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/refs\/heads\/main\/ace.png",
-                "installs": "",
-                "desc": "Xem AceStream",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/ace.apk"
-            },
-            {
-                "name": "Ace Server",
-                "developer": "",
-                "icon": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTnLqCRBJQhOeYiZsRG25shCS4FJKDcJ_sJ1mBRx-xPC_-YrxvM5o6f7Del&s=10",
-                "installs": "",
-                "desc": "Xem thể thao acestream",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/acesv.apk"
-            },
-            {
-                "name": "ONNA Online",
-                "developer": "",
-                "icon": "https:\/\/i.postimg.cc\/qvQ9rKCz\/S5.png",
-                "installs": "",
-                "desc": "Truyền hình cơ bản",
-                "apk_url": "https:\/\/github.com\/rupanh123-phap\/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io\/releases\/download\/V1.0.0\/onna.apk"
             }
         ]
     },
