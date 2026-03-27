@@ -28,15 +28,15 @@
             },
             {
                 "name": "VietPlay TV",
-                "developer": "",
-                "icon": "https://vietplayplus.com/api/public/files/vietplayplus-placeholder_bhParT8xG.jpg",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VietPlay_TV.png",
                 "installs": "",
                 "desc": "Truyền Hình 😘",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vietplaytv.apk"
             },
             {
                 "name": "Imedia TV",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://image.winudf.com/v2/image1/ZGV2X2ltYWdlXzI0MDc0NzY4XzIwMTQ0OV8yMDIzMDcyODAzNDY0NTE4MA/icon.webp?w=140&fakeurl=1&type=.webp",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá😱",
@@ -44,7 +44,7 @@
             },
             {
                 "name": "DL Tivi",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://play-lh.googleusercontent.com/gEpSxRbJNkN-bgnpX4khvulqP3a5ZOOgkbKw7CCg_-Ye4QHn5Kxh4nL-Ek_JhDc0Nwk",
                 "installs": "",
                 "desc": "Truyền Hình 😘",
@@ -52,15 +52,15 @@
             },
             {
                 "name": "VAppTV",
-                "developer": "",
-                "icon": "https://vapptv.com/vapp-logo.png",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VApp-TV.png",
                 "installs": "",
                 "desc": "Truyền Hình 😱",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/vAppTV_1.0.2_20250619.apk"
             },
             {
                 "name": "TV360 (MOD)",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://play-lh.googleusercontent.com/_9U3ssBJmeQlp8qg1vgSP4tn763MWc_zfO_n6g2klNNxJ_R1hMfI6v7xrKwIoow41YI",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😘",
@@ -68,7 +68,7 @@
             },
             {
                 "name": "QuanTV",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://cdn-icons-png.flaticon.com/512/1801/1801781.png",
                 "installs": "",
                 "desc": "Truyền Hình 😘",
@@ -76,7 +76,7 @@
             },
             {
                 "name": "Monster TV",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm43oFacKvlTLkp3FJ6i0GyTZYmGgQpXkTkSWo__BWbau-hY2cQcUK7CNS&s=10",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😱",
@@ -92,7 +92,7 @@
             },
             {
                 "name": "SportsTV",
-                "developer": "",
+                "developer": "Ứng dụng xem link M3U",
                 "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/sportv.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá ✅",
@@ -100,7 +100,7 @@
             },
             {
                 "name": "SportzX",
-                "developer": "",
+                "developer": "Ứng dụng xem link M3U",
                 "icon": "https://images.dwncdn.net/images/t_app-icon-l/p/ab9cd7e8-74a0-4df2-a22a-af300bc611ef/774505182/sportzx-football-live-tv-hd-logo",
                 "installs": "",
                 "desc": "Bóng Đá Live FHD ✅",
@@ -734,23 +734,23 @@
         "items": [
             {
                 "name": "DL Store",
-                "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5croHG9fWW199IYHCUWg25G732Y1srdVjA&s",
+                "developer": "Kho ứng dụng Việt Nam",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/DL_Store.png",
                 "installs": "",
-                "desc": "Kho ứng dụng - Đình Lập",
+                "desc": "Phiên bản: 16.1",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/DLStore_v16.apk"
             },
             {
                 "name": "MStore",
-                "developer": "",
+                "developer": "Kho ứng dụng Việt Nam",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
                 "installs": "",
-                "desc": "Kho ứng dụng - Tùng Bùi",
+                "desc": "Phiên bản: 2.0",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/mstore.apk"
             },
             {
                 "name": "Emet Surf",
-                "developer": "",
+                "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://play-lh.googleusercontent.com/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
                 "installs": "",
                 "desc": "Trình Duyệt Web All In One",
@@ -758,7 +758,7 @@
             },
             {
                 "name": "JioSphere",
-                "developer": "",
+                "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP17syNycSI-U3itXnuDD3c-BHdktZK2y-jVP1LrrF7g&s",
                 "installs": "",
                 "desc": "Trình Duyệt Web Đầy Đủ",
@@ -766,50 +766,50 @@
             },
             {
                 "name": "AptoideTV",
-                "developer": "",
+                "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://images.sftcdn.net/images/t_app-icon-m/p/ce9b1536-96d0-11e6-b886-00163ed833e7/247507360/aptoide-logo",
                 "installs": "",
-                "desc": "Kho ứng dụng",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aptoidetv.apk"
             },
             {
                 "name": "HDPlay Store",
-                "developer": "",
+                "developer": "Kho ứng dụng Việt Nam",
                 "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/hdplaystore.png",
                 "installs": "",
-                "desc": "Kho ứng dụng",
+                "desc": "Phiên bản: 3.1.9",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/hdplaystore.apk"
             },
             {
                 "name": "Bảo Store",
-                "developer": "",
+                "developer": "Kho ứng dụng Việt Nam",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
                 "installs": "",
-                "desc": "Kho ứng dụng bảo ",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/baostore.apk"
             },
             {
                 "name": "APK Update",
-                "developer": "",
+                "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://play-lh.googleusercontent.com/JVPqSUjWg9JYlw_KitvbDtmImVcINiW-eZITgdD92RQ4tV2F_WUOrVTkPmBamCUeZIo",
                 "installs": "",
-                "desc": "Kho ứng dụng thay thế google play✅",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/apkup.apk"
             },
             {
                 "name": "Emotn Store",
-                "developer": "",
+                "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://static.emotn.com/img/logo.png",
                 "installs": "",
-                "desc": "Kho ứng dụng Emotn ✅",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/emotnstore.apk"
             },
             {
                 "name": "Dangbei Store",
-                "developer": "",
+                "developer": "Kho ứng dụng Trung Quốc",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Dangbei-Store.webp",
                 "installs": "",
-                "desc": "Kho ứng dụng Emotn ✅",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/Dangbei_Store_v4.3.5.apk"
             }
         ]
@@ -1644,7 +1644,7 @@
                 "installs": "",
                 "desc": "Chỉ hỗ trợ từ android 8 trở lên.",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TRINH-DUYET/Opera_Mini_80.0.2254.71399.apk"
-            }
+            },
             {
                 "name": "Browser",
                 "developer": "Trình duyệt dành cho Android TV",
@@ -1839,7 +1839,7 @@
             {
                 "name": "8 Ball Pool",
                 "developer": "Game dành Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/8-Ball-Pool.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/8-Ball-Pool.jpg",
                 "installs": "",
                 "desc": "",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GAME/8_Ball_Pool_v5.8.1.apk"
