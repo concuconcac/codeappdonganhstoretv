@@ -12,7 +12,7 @@
             },
             {
                 "name": "Cò Tivi",
-                "developer": "",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://i.ibb.co/mrVGbpdk/cotivi.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😘",
@@ -20,7 +20,7 @@
             },
             {
                 "name": "Get Out",
-                "developer": "App xem bóng đá miễn phí",
+                "developer": "Ứng dụng xem bóng đá miễn phí",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/GetOut.png",
                 "installs": "",
                 "desc": "Luôn cập nhật phiên bản mới nhất 🟢",
@@ -301,7 +301,7 @@
             {
                 "name": "Live Football On TV (Lite)",
                 "developer": "",
-                "icon": "https://i.postimg.cc/qvQ9rKCz/S5.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Live_Football_On%20TV_Lite.png",
                 "installs": "",
                 "desc": "Truyền hình cơ bản",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/onna.apk"
@@ -316,11 +316,19 @@
             },
             {
                 "name": "TVirl IPTV",
-                "developer": "Ứng dụng chỉ dành cho Google TV",
+                "developer": "Addons đặc biệt cho Live Channels",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TVirl-IPTV.png",
                 "installs": "",
-                "desc": "Phiên bản 1.30",
+                "desc": "Phiên bản 2.0",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/LIVE-CHANNEL-IPTV/TVirl.IPTV-for-Android-TV.apk"
+            },
+            {
+                "name": "PVR Live",
+                "developer": "Addons đặc biệt cho Live Channels",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/PVR_Live.png",
+                "installs": "",
+                "desc": "Phiên bản 2.9.6",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/PVR_Live_v2.9.6.apk"
             }
         ]
     },
@@ -1284,7 +1292,7 @@
             {
                 "name": "Any Desk",
                 "developer": "Phiên bản: 11.0.1",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMxs2U5lr47O_VgOR0EeutZ9-7-yvkDzQ_Al_xwN4UdsQBa7roB5MRps&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Any-Desk.png",
                 "installs": "",
                 "desc": "Phiên bản: 8.3.2",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/DIEU-KHIEN-THIET-BI/AnyDesk_v8.3.2.apk"
@@ -1404,24 +1412,16 @@
         "category": "TRÌNH QUẢN LÝ FILE",
         "items": [
             {
-                "name": "Xplorer File Manager Premium",
-                "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
-                "installs": "",
-                "desc": "Quản lý tập tin không quảng cáo😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk"
-            },
-            {
                 "name": "Quản Lý Tệp",
-                "developer": "",
+                "developer": "Trình quản lý file cực đẹp",
                 "icon": "https://img.freepik.com/premium-vector/file-manager-icon_915059-5.jpg",
                 "installs": "",
-                "desc": "Quản lý tập tin😁",
+                "desc": "Quản lý tập tin không có quảng cáo",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/qlt.apk"
             },
             {
                 "name": "Mixplorer Premium",
-                "developer": "",
+                "developer": "Trình quản lý file",
                 "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/eb/6e/a3eb6ef2-36b6-1f7f-416e-4b2595bf5e2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
                 "installs": "",
                 "desc": "Quản lý tập tin😁",
@@ -1429,15 +1429,23 @@
             },
             {
                 "name": "RS File Manager File Explorer",
-                "developer": "Phiên bản đã MOD VIP",
+                "developer": "Phiên bản Tiếng Việt đã MOD VIP",
                 "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
                 "installs": "",
                 "desc": "Quản lý tập tin",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/RS_File_Manager_Amymmo_Pro.apk"
             },
             {
-                "name": "Root Explorer",
-                "developer": "Quản lý tập tin",
+                "name": "Xplorer File Manager Premium",
+                "developer": "Trình quản lý file",
+                "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
+                "installs": "",
+                "desc": "Quản lý tập tin không quảng cáo😁",
+                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk"
+            },
+            {
+                "name": "Root Explorer Premium",
+                "developer": "Trình quản lý file",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Root-Explorer.png",
                 "installs": "",
                 "desc": "Phiên bản: 4.11.4",
@@ -1445,8 +1453,8 @@
             },
             {
                 "name": "S Manager",
-                "developer": "Quản lý tập tin",
-                "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "developer": "Trình quản lý file",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SManager.png",
                 "installs": "",
                 "desc": "Chỉ dành cho Android 7 trở xuống",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/Android5/SManager_3.0.4.apk"
@@ -1509,7 +1517,7 @@
                 "developer": "Ứng dụng đổi IP",
                 "icon": "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw",
                 "installs": "",
-                "desc": "VPN ✅",
+                "desc": "Phiên bản: 1.0",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/WireGuard_v1.0.20201224.apk"
             },
             {
@@ -1659,7 +1667,7 @@
         "category": "VOICE - GIỌNG NÓI",
         "items": [
             {
-                "name": "Super Voice",
+                "name": "Super Voice 2.9",
                 "developer": "Tìm Kiếm Giọng Nói",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Super-Voice.png",
                 "installs": "",
@@ -1667,7 +1675,7 @@
                 "apk_url": "https://bom.so/suppervoice"
             },
             {
-                "name": "Map Voice",
+                "name": "Map Voice 3.0",
                 "developer": "Tìm Kiếm Giọng Nói",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Map-Voice.png",
                 "installs": "",
@@ -1681,6 +1689,22 @@
                 "installs": "",
                 "desc": "Hỗ trợ Smarttube - ImediaTV😘",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiki.xapk"
+            },
+            {
+                "name": "Voice Seach",
+                "developer": "Tìm kiếm giọng nói Google",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Google-Voice.png",
+                "installs": "Phiên bản: ",
+                "desc": "Yêu cầu cài thêm app Google, mới có thể sử dụng được.",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/GOOGLE-VOICE/VoiceSearch.apk"
+            },
+            {
+                "name": "Google",
+                "developer": "Ứng dụng hỗ trợ giọng nói Google",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Google.webp",
+                "installs": "",
+                "desc": "Phiên bản: ",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/GOOGLE-VOICE/Google.apk"
             },
             {
                 "name": "VNVoice - Tìm Kiếm Giọng Nói",
@@ -1713,22 +1737,6 @@
                 "installs": "",
                 "desc": "Volume Booster 😘",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/volumeboost.apk"
-            },
-            {
-                "name": "Voice Seach",
-                "developer": "Tìm kiếm giọng nói Google",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Google-Voice.png",
-                "installs": "Phiên bản: ",
-                "desc": "Yêu cầu cài thêm app Google, mới có thể sử dụng được.",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/GOOGLE-VOICE/VoiceSearch.apk"
-            },
-            {
-                "name": "Google",
-                "developer": "Ứng dụng hỗ trợ giọng nói Google",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Google.webp",
-                "installs": "",
-                "desc": "Phiên bản: ",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/GOOGLE-VOICE/Google.apk"
             }
         ]
     },
