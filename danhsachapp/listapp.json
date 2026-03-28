@@ -4,11 +4,11 @@
         "items": [
             {
                 "name": "Đông Anh TV",
-                "developer": "Truyền hình dành cho TV",
+                "developer": "500 kênh truyền hình miễn phí",
                 "icon": "https://raw.githubusercontent.com/concuconcac/truyenhinhlonto/refs/heads/main/DONGANH-TV/logo-donganhtv.png",
                 "installs": "",
-                "desc": "500 kênh truyền hình miễn phí - Hỗ trợ Android 5 trở lên",
-                "apk_url": "https://github.com/concuconcac/truyenhinhlonto/raw/refs/heads/main/DONGANH-TV/DongAnhTV_v2.apk"
+                "desc": "Phiên bản: 3.1",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/DONGANH-TV/DongAnhTV_v3.apk"
             },
             {
                 "name": "Cò Tivi",
