@@ -741,6 +741,14 @@
         "category": "TỔNG HỢP CÁC STORE KHÁC",
         "items": [
             {
+                "name": "Đông Anh Store",
+                "developer": "Kho ứng dụng Việt Nam",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Donganh_Store.png",
+                "installs": "",
+                "desc": "Phiên bản: 25.3.2",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/Donganh_Store_v25.3.2.apk"
+            },
+            {
                 "name": "DL Store",
                 "developer": "Kho ứng dụng Việt Nam",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/DL_Store.png",
