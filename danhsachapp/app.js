@@ -492,3 +492,37 @@ document.addEventListener('DOMContentLoaded', function() {
 const style = document.createElement('style');
 style.textContent = `@keyframes spin { from {transform: rotate(0deg);} to {transform: rotate(360deg);} }`;
 document.head.appendChild(style);
+// ==========================================
+// ĐOẠN CODE CHỐNG COPY, CHUỘT PHẢI, F12
+// ==========================================
+
+// 1. Chống nhấn chuột phải
+document.addEventListener('contextmenu', function(e) {
+  e.preventDefault();
+});
+
+// 2. Chống bôi đen (chọn văn bản) và copy
+document.addEventListener('selectstart', function(e) {
+  if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+    e.preventDefault();
+  }
+});
+document.addEventListener('copy', function(e) {
+  e.preventDefault();
+});
+
+// 3. Chống F12 và các phím tắt mở DevTools (Ctrl+Shift+I/J/C, Ctrl+U)
+document.addEventListener('keydown', function(e) {
+  // Chống F12
+  if (e.key === 'F12' || e.keyCode === 123) {
+    e.preventDefault();
+  }
+  // Chống Ctrl + Shift + I / J / C
+  if (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'i' || e.key === 'J' || e.key === 'j' || e.key === 'C' || e.key === 'c')) {
+    e.preventDefault();
+  }
+  // Chống Ctrl + U (Xem nguồn trang)
+  if (e.ctrlKey && (e.key === 'U' || e.key === 'u')) {
+    e.preventDefault();
+  }
+});
