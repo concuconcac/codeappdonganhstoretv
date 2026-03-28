@@ -5,8 +5,22 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Đông Anh Store</title>
   <link rel="stylesheet" href="style.css">
+<style>
+    /* Khóa bôi đen toàn bộ trang */
+    body {
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    /* Vẫn cho phép bôi đen/gõ chữ bình thường ở ô tìm kiếm */
+    input, textarea {
+      -webkit-user-select: text;
+      -ms-user-select: text;
+      user-select: text;
+    }
+  </style>
 </head>
-<body>
+<body oncontextmenu="return false;" ondragstart="return false;" onselectstart="return false;">
   <div id="hero" class="hero">
     <div class="overlay"></div>
     
