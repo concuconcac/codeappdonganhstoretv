@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Đông Anh Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="hero" class="hero">
+    <div class="overlay"></div>
+    
+    <header class="topbar">
+      <div class="brand">
+        <img src="logo.png" alt="Play" class="logo">
+        <div class="title">Đông Anh Store</div>
+      </div>
+      <div class="topbar-right">
+        <div class="search-wrapper">
+          <div class="search-area" id="searchBox" tabindex="0">
+            <div class="search"><input id="q" placeholder="Nhập tên ứng dụng..." autocomplete="off"/></div>
+          </div>
+        </div>
+        <div class="clock" id="clock" style="font-weight: bold;"></div>
+      </div>
+    </header>
+
+    <main class="container">
+      <div id="announcement-section">
+        <div class="announcement-marquee-wrapper">
+          <span class="marquee-label">Thông báo:</span>
+          <div class="marquee-content">
+            <span id="marquee-text">Đông Anh Store, chuyên hỗ trợ cài đặt tiếng Việt cho tất cả các dòng Tivi Android...</span>
+          </div>
+        </div>
+        <p class="intro-text">Kho ứng dụng dành riêng cho Android TV. Hoàn toàn miễn phí.</p>
+        <p class="intro-text">Hỗ trợ dành cho các thiết bị Android Box, các hãng Tivi, màn hình Android trên xe ôtô,....</p>
+      </div>
+      <div id="rows" class="rows"></div>
+    </main>
+  </div>
+
+  <div id="modal" class="modal" aria-hidden="true">
+    <div id="modalCard" class="modal-card" tabindex="0">
+      <div class="modal-icon-container">
+          <img id="modalIcon" src="" class="modal-icon">
+      </div>
+      <div class="modal-body">
+        <h2 id="modalTitle"></h2>
+        <p id="modalDev" class="muted"></p>
+        <p id="modalDesc"></p>
+        <p id="modalInstalls">Lượt tải: 0</p>
+        <div class="modal-actions">
+          <button id="installBtn" class="btn primary">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="icon">
+              <path d="M10.75 2.75a.75.75 0 00-1.5 0v8.614L6.295 8.235a.75.75 0 10-1.09 1.03l4.25 4.5a.75.75 0 001.09 0l4.25-4.5a.75.75 0 00-1.09-1.03l-2.955 3.129V2.75z" />
+              <path d="M3.5 12.75a.75.75 0 00-1.5 0v2.5A2.75 2.75 0 004.75 18h10.5A2.75 2.75 0 0018 15.25v-2.5a.75.75 0 00-1.5 0v2.5c0 .69-.56 1.25-1.25 1.25H4.75c-.69 0-1.25-.56-1.25-1.25v-2.5z" />
+            </svg>
+            <span>Cài đặt</span>
+          </button>
+          <button id="closeBtn" class="btn">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="icon">
+              <path d="M6.28 5.22a.75.75 0 00-1.06 1.06L8.94 10l-3.72 3.72a.75.75 0 101.06 1.06L10 11.06l3.72 3.72a.75.75 0 101.06-1.06L11.06 10l3.72-3.72a.75.75 0 00-1.06-1.06L10 8.94 6.28 5.22z" />
+            </svg>
+            <span>Huỷ</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script src="app.js"></script>
+</body>
+</html>
