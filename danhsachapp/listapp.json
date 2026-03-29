@@ -749,6 +749,14 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/mstore.apk"
             },
             {
+                "name": "HDPlay Store",
+                "developer": "Kho ứng dụng Việt Nam",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/hdplay-store.jpg",
+                "installs": "",
+                "desc": "Phiên bản: 3.1.9",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/HDPlay_Store_v3.1.9.apk"
+            },
+            {
                 "name": "Emet Surf",
                 "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emet-Surf.webp",
@@ -773,14 +781,6 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/aptoidetv.apk"
             },
             {
-                "name": "HDPlay Store",
-                "developer": "Kho ứng dụng Việt Nam",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/hdplay-store.jpg",
-                "installs": "",
-                "desc": "Phiên bản: 3.1.9",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/HDPlay_Store_v3.1.9.apk"
-            },
-            {
                 "name": "Bảo Store",
                 "developer": "Kho ứng dụng Việt Nam",
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
@@ -799,10 +799,18 @@
             {
                 "name": "Emotn Store",
                 "developer": "Kho ứng dụng Nước ngoài",
-                "icon": "https://static.emotn.com/img/logo.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emotn-Store.webp",
                 "installs": "",
                 "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/emotnstore.apk"
+            },
+            {
+                "name": "APK Pure (MOD)",
+                "developer": "Kho ứng dụng Nước ngoài",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/APK-Pure.png",
+                "installs": "",
+                "desc": "Phiên bản: ",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/APKPure-v3.19.35-No-Ads.apk"
             },
             {
                 "name": "Dangbei Store",
