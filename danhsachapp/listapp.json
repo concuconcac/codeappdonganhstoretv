@@ -203,20 +203,20 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/ott-navigator-iptv.apk"
             },
             {
-                "name": "M3U IPTV Premium",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/M3U-IPTV.png",
-                "installs": "",
-                "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/M3U-IPTV.apk"
-            },
-            {
                 "name": "OTT Navigator Premium (4.0)",
                 "developer": "",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ott-navigator-iptv.png",
                 "installs": "",
                 "desc": "Dành Cho Android 4.0",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/ott4.apk"
+            },
+            {
+                "name": "M3U IPTV Premium",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/M3U-IPTV.png",
+                "installs": "",
+                "desc": "Xem Truyền Hình IPTV",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/M3U-IPTV.apk"
             },
             {
                 "name": "Lazy IPTV Premium",
