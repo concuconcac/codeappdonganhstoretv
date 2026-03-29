@@ -1044,7 +1044,7 @@
             {
                 "name": "Weather - Live",
                 "developer": "Widget thời tiết",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Weather-thoitiet-2.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/weather-live.png",
                 "installs": "",
                 "desc": "Thời tiết cho ATV Launcher đã Mod",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/THOI-TIET/Weather_live_v6.20.3.apk"
@@ -1491,7 +1491,7 @@
             {
                 "name": "VPN VIETNAM SUPER (MOD)",
                 "developer": "",
-                "icon": "github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/VPN-VIETNAM-SUPER.png?raw=true",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VPN-VIETNAM-SUPER.png",
                 "installs": "",
                 "desc": "VPN Chặn Quảng cáo YouTube 😘",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/vpnvn.apk"
