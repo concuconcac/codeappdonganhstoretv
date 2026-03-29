@@ -1327,14 +1327,6 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/ProjectivyLauncher/ProjectivyLauncher_v4.68_Pro.apk"
             },
             {
-                "name": "Thay đổi giao diện",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Thay-doi-giao-dien.png",
-                "installs": "",
-                "desc": "Thay đổi giao diện mặc định 😘",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/tdgd.apk"
-            },
-            {
                 "name": "HomeTV",
                 "developer": "Phiên bản Crack 2026-Miễn phí 100%",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/HomeTV.png",
@@ -1353,7 +1345,7 @@
             {
                 "name": "Leanback On Fire",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/Leanback-On-Fire-1.webp?raw=true",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Leanback-On-Fire-1.webp",
                 "installs": "",
                 "desc": "Hỗ trợ cho Android 5 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/LeanbackOnFire/LeanbackOnFire_v1.63-goc.apk"
@@ -1365,6 +1357,14 @@
                 "installs": "",
                 "desc": "Hỗ trợ cho Android 5 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/UGOOS-LAUNCHER/Ugoos-Launcher.apk"
+            },
+            {
+                "name": "Thay đổi giao diện",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Thay-doi-giao-dien.png",
+                "installs": "",
+                "desc": "Thay đổi giao diện mặc định 😘",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/tdgd.apk"
             },
             {
                 "name": "Gboard",
