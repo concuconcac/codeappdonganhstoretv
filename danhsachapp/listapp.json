@@ -16,7 +16,7 @@
                 "icon": "https://i.ibb.co/mrVGbpdk/cotivi.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😘",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/CO-TIVI/cotivi1.1.3.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Co_Tivi.apk"
             },
             {
                 "name": "Get Out",
@@ -27,12 +27,20 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Get_Out.apk"
             },
             {
+                "name": "DL Tivi",
+                "developer": "Ứng dụng xem truyền hình miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/DL-Tivi.png",
+                "installs": "",
+                "desc": "Truyền Hình 😘",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/DL_Tivi.apk"
+            },
+            {
                 "name": "VietPlay TV",
                 "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VietPlay_TV.png",
                 "installs": "",
                 "desc": "Truyền Hình 😘",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/VietPlay_TV_v2.2.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/VietPlay_TV.apk"
             },
             {
                 "name": "Imedia TV",
@@ -43,20 +51,12 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/iMedia_TV.apk"
             },
             {
-                "name": "DL Tivi",
-                "developer": "Ứng dụng xem truyền hình miễn phí",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/DL-Tivi.png",
-                "installs": "",
-                "desc": "Truyền Hình 😘",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/DL-TIVI/DL_Tivi_v16.0.2.apk"
-            },
-            {
                 "name": "VAppTV",
                 "developer": "Ứng dụng xem truyền hình miễn phí",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VApp-TV.png",
                 "installs": "",
                 "desc": "Truyền Hình 😱",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/vAppTV_1.0.2_20250619.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/vAppTV.apk"
             },
             {
                 "name": "TV360 (MOD)",
@@ -72,7 +72,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/QuanTV-1.png",
                 "installs": "",
                 "desc": "Truyền Hình 😘",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/quantv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Quan_TV.apk"
             },
             {
                 "name": "Monster TV",
@@ -80,7 +80,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Monster_TV.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😱",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/monster.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Monster_TV.apk"
             },
             {
                 "name": "Vừa Mới Thấy",
@@ -88,7 +88,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Vuamoithay-TV.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá 😱",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Vuamoithay_vmtv3.0.0.0.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Vuamoithay_TV.apk"
             },
             {
                 "name": "SportsTV",
@@ -96,7 +96,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Sports_TV.png",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá ✅",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/sporstv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Sports_TV.apk"
             },
             {
                 "name": "SportzX",
@@ -104,7 +104,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SportzX.png",
                 "installs": "",
                 "desc": "Bóng Đá Live FHD ✅",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/sportzx.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/SportzX.apk"
             },
             {
                 "name": "Rindo TV",
@@ -112,7 +112,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Rindo-TV.png",
                 "installs": "",
                 "desc": "Truyền Hình",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/RINDO-TV/RindoTV_1.3.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/RindoTV.apk"
             },
             {
                 "name": "RBTV +",
@@ -120,7 +120,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/RBTV.png",
                 "installs": "",
                 "desc": "Bóng Đá Live ✅",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/RINDO-TV/rbtv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/rbtv.apk"
             },
             {
                 "name": "Cricfy TV",
@@ -128,7 +128,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Cricfy_TV.webp",
                 "installs": "",
                 "desc": "Bóng Đá Live FHD ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/cricfy.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/cricfy.apk"
             },
             {
                 "name": "KK Play",
@@ -136,7 +136,7 @@
                 "icon": "https://iaapa-web.s3.us-west-2.amazonaws.com/public/styles/large_scale_480x480/public/2025-01/K%20Play%20Solutions.JPG.webp?VersionId=BoFn9LMZ0KLrgcBloojSn7kRdYJobNYJ&itok=bee6tZxD",
                 "installs": "",
                 "desc": "Truyền Hình - Bóng Đá ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kkplay.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/kkplay.apk"
             },
             {
                 "name": "FPT Play",
@@ -152,7 +152,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TV360.webp",
                 "installs": "",
                 "desc": "Truyền Hình",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/TV360_goc_Viettel_5.7.3.xapk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/TV360_goc_Viettel.xapk"
             },
             {
                 "name": "VTV Go",
@@ -197,106 +197,106 @@
             {
                 "name": "OTT Navigator Premium",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/ott.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ott-navigator-iptv.png",
                 "installs": "",
                 "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ott.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/ott-navigator-iptv.apk"
             },
             {
                 "name": "M3U IPTV Premium",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/HAQ18Pg2JzUzcZFQ4qUWlIaxPwftQ0oAt1U1TMVYQR3hchn_Dtj36LTPdga6thCbKnA",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/M3U-IPTV.png",
                 "installs": "",
                 "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/m3u.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/M3U-IPTV.apk"
             },
             {
                 "name": "OTT Navigator Premium (4.0)",
                 "developer": "",
-                "icon": "https:/raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/ott.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ott-navigator-iptv.png",
                 "installs": "",
                 "desc": "Dành Cho Android 4.0",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ott4.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/ott4.apk"
             },
             {
                 "name": "Lazy IPTV Premium",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHztB46h1bZqhXWn93u1YDWE8oxXleLktQUA&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Lazy-IPTV.jpg",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/lazy.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/lazy.apk"
             },
             {
-                "name": "WisePlay",
+                "name": "Wise Play",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/_SHQjLM1rdpx-5EhldGl8yTLIb5tfBF5p_ELnto0XqON3WjKN07C3pDmKT6sob1ER3A",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/WisePlay.png",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/wiseplay.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/wiseplay.apk"
             },
             {
                 "name": "Perfect Player",
                 "developer": "",
-                "icon": "https://cdn6.aptoide.com/imgs/8/0/a/80a5d324547619f2d16b622c88b55938_icon.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Perfect-Player.png",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/pplayer.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/pplayer.apk"
             },
             {
                 "name": "Televizo Premium",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/ip.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Televizo.png",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/televizof.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/televizof.apk"
             },
             {
                 "name": "Tivimate Premium",
                 "developer": "",
-                "icon": "https://downloadr2.apkmirror.com/wp-content/uploads/2022/10/42/634afd651f0b8.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tivimate.png",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tivimate.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/tivimate.apk"
             },
             {
                 "name": "Sparkle TV (MOD Dexunpacker)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/eYfJHADMYNZpqaiTslBETpzIoZdHiNT_IZ2hQ_pG8_gNG6hEfW2C6ENEEPaIvHNVOA",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Sparkle-TV.png",
                 "installs": "",
                 "desc": "Xem IPTV ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sptv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/sptv.apk"
             },
             {
                 "name": "IPTV Pro Premium",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/iptvpro.png",
+                "developer": "Phiên bản VIP",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/IPTV.jpg",
                 "installs": "",
                 "desc": "Xem Truyền Hình IPTV",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/iptv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/iptv.apk"
             },
             {
                 "name": "AceStream (MOD)",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/ace.png",
+                "developer": "Phiên bản VIP",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ace-Stream.png",
                 "installs": "",
                 "desc": "Xem AceStream",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ace.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/ace.apk"
             },
             {
                 "name": "Ace Server",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLqCRBJQhOeYiZsRG25shCS4FJKDcJ_sJ1mBRx-xPC_-YrxvM5o6f7Del&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ace-Server.png",
                 "installs": "",
                 "desc": "Xem thể thao acestream",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/acesv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/acesv.apk"
             },
             {
                 "name": "ONNA Online",
                 "developer": "",
-                "icon": "https://i.postimg.cc/qvQ9rKCz/S5.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ONNA_Online.png",
                 "installs": "",
                 "desc": "Truyền hình cơ bản",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/onna.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/onna.apk"
             },
             {
                 "name": "Live Football On TV (Lite)",
@@ -304,7 +304,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Live_Football_On%20TV_Lite.png",
                 "installs": "",
                 "desc": "Truyền hình cơ bản",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/onna.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/Live_Football_On_TV_Lite.apk"
             },
             {
                 "name": "Live Channels",
@@ -336,17 +336,17 @@
         "category": "XEM PHIM - NGHE NHẠC",
         "items": [
             {
-                "name": "TizenTube",
+                "name": "Tizen Tube",
                 "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
-                "icon": "https://yt3.googleusercontent.com/nbJWx2bDG0lj9ECT-1Xs1F9kWHHOHS0kK9-s4N2zuGf36sg_1tbuwT27Ftg3osYCdFXi5S6Lxqc=s900-c-k-c0x00ffffff-no-rj",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tizen_Tube.jpg",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
-                "apk_url": "https://github.com/reisxd/TizenTube/releases/download/v1.1.3/app-armeabi-v7a-debug.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/TIZEN-TUBE/TizenTube.apk"
             },
             {
                 "name": "SmartTube",
                 "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
-                "icon": "https://img.utdstc.com/icon/b9f/977/b9f977832d162f1a9e65e2df6fb6a1ae352121073563b43e1837f8fbcf79601b:200",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SmartTube.webp",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 5 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/SMART-TUBE/SmartTube.apk"
@@ -354,15 +354,15 @@
             {
                 "name": "YouTube (No ads)",
                 "developer": "Xem Youtube ko quảng cáo dành cho Android TV.",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/smtb.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Youtube-1.png",
                 "installs": "",
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
-                "apk_url": "https://github.com/JackieDo/Cobalt-Tube/releases/download/v1.10.1/cobalttube-arm.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/YOUTUBE-COBALT/YouTube_Cobalt_v1.10.0.apk"
             },
             {
                 "name": "Phim 4K (TV)",
                 "developer": "Luôn là phiên bản mới nhất",
-                "icon": "https://i.postimg.cc/3RfHN517/Picsart-25-11-10-13-53-28-889.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Phim-4k.jpg",
                 "installs": "50 Tr+",
                 "desc": "Xem phim Miễn Phí-Hỗ trợ Android 9 trở lên",
                 "apk_url": "https://phim4k.xyz/downloads/androidtv"
@@ -370,7 +370,7 @@
             {
                 "name": "Vua Giải Trí (TV)",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFJTkQm4NAsmSMVFhCG7qVjOSJoBGvUcxgwlgteIkSn5T447B49eYWw1f&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Vua-giai-tri.jpg",
                 "installs": "",
                 "desc": "Truyền Hình - Thể Thao - Phim 🤩",
                 "apk_url": "https://github.com/manhnv699/vuagiaitri/releases/download/tv-app-armeabi-v7a/tv-app-armeabi-v7a.apk"
@@ -378,10 +378,10 @@
             {
                 "name": "MonPlayer TV",
                 "developer": "Luôn là phiên bản mới nhất",
-                "icon": "https://play-lh.googleusercontent.com/HqXUsIGaqeYJDmTBFoS6_YLvODIuUjNn_HQTx_96TIFKldk2ob0x66HEXh_NnPAsXxc",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MonPlayer-TV.png",
                 "installs": "",
                 "desc": "Chơi tất cả nội dung bạn thích!.",
-                "apk_url": "https://monplayer.org/tv"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/MonPlayer.apk"
             },
             {
                 "name": "Phim30",
@@ -389,7 +389,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Phim-30.png",
                 "installs": "",
                 "desc": "Luôn cập nhật phiên bản mới nhất",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30_v2v1.0.24.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Phim30.apk"
             },
             {
                 "name": "Boba TV",
@@ -397,7 +397,7 @@
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Boba-TV.webp",
                 "installs": "",
                 "desc": "Luôn cập nhật phiên bản mới nhất",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Boba_TV_v1.66.164.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Boba_TV.apk"
             },
             {
                 "name": "Galaxy Play",
@@ -410,10 +410,10 @@
             {
                 "name": "Stremio",
                 "developer": "",
-                "icon": "https://www.stremio.com/website/stremio-purple-small.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Stremio.png",
                 "installs": "",
                 "desc": "Xem phim torrent",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/stremiotv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/stremiotv.apk"
             },
             {
                 "name": "Apple TV",
@@ -424,28 +424,28 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Apple_TV_16.2.0.apk"
             },
             {
-                "name": "Kodi (MOD) 32bit",
+                "name": "Kodi Omega (MOD)",
                 "developer": "Phiên bản: 21.2",
-                "icon": "https://play-lh.googleusercontent.com/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Kodi.png",
                 "installs": "",
                 "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https://t.me/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
-                "apk_url": "https://phuocphap.ahiep.name.vn/phuocphap/KODI/Kodi22/Kodi21-ondinh-%20cloner/kodi21.2-32bit.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KODI/Kodi_21.2.apk"
             },
             {
                 "name": "Plex (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/F39M_Ce9OBW62qntNOq6jvUH3Nh0N-03eGNFFU14GAU-hCU0RlHBONYYBiS-0SY0kaY",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Plex.jpg",
                 "installs": "",
                 "desc": "Media Server🦊",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/plex.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/plex.apk"
             },
             {
                 "name": "Emby TV (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/x2eHcquFzIsSuhwXmbvD_xouXUxMkAfdak0z8zayXU_OzC9yYxBdbur3nE_kE4kazg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emby-TV.png",
                 "installs": "",
                 "desc": "Media Server🦊",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/emby.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/emby.apk"
             },
             {
                 "name": "Youtube (Bản gốc)",
@@ -458,55 +458,55 @@
             {
                 "name": "YouTube Revanced (MOD)",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/smtb.png",
+                "icon": "https://github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/YouTube-Revanced.webp",
                 "installs": "",
                 "desc": "Dành cho điện thoại - TV phải dùng 🐀",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ytbrvc.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/ytbrvc.apk"
             },
             {
                 "name": "MicroG (Yotube Revanced)",
                 "developer": "",
-                "icon": "https://img.utdstc.com/icon/6c2/e77/6c2e779243f3d2d4a49966874d2a09a97793147dfdfd076987373f6f9a78803a:200",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MicroG-Yotube-Revanced.webp",
                 "installs": "",
                 "desc": "Để đăng nhập YouTube Revanced ✅ Yêu cầu phải cài MicroG",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/microg.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/microg.apk"
             },
             {
                 "name": "Newpipe",
                 "developer": "",
-                "icon": "https://repository-images.githubusercontent.com/746093504/9a6136fe-0541-4e3f-8fe2-559f29bdb04c",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Newpipe.png",
                 "installs": "",
                 "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/newpipe.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/newpipe.apk"
             },
             {
                 "name": "SkyTube Extra",
                 "developer": "",
-                "icon": "https://avatars.githubusercontent.com/u/63019215?s=280&v=4",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SkyTube-Extra.png",
                 "installs": "",
                 "desc": "YouTube không quảng cáo 4K 😁 Dành cho điện thoại",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/skytube.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/skytube.apk"
             },
             {
-                "name": "FlixVision",
+                "name": "Flix Vision",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/flixvision.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/FlixVision.jpg",
                 "installs": "",
                 "desc": "Xem phim 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/flix.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/flix.apk"
             },
             {
                 "name": "Dailymotion (MOD)",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLuXrjO85tkjGIwC3LjooNO5Bq9JPJSri4VXQDxbDibmx9OjDr8VFt-8l&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Dailymotion.jpg",
                 "installs": "",
                 "desc": "Xem phim 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/dailymotion.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/dailymotion.apk"
             },
             {
                 "name": "HDO Box",
                 "developer": "",
-                "icon": "https://vepaar.b-cdn.net/uploads/c-187092/product/14404350/media_168927997425011266.jpg?crop_gravity=center&width=500&height=500&quality=70&aspect_ratio=1:1",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/HDO-Box.png",
                 "installs": "",
                 "desc": "Xem Phim ☕",
                 "apk_url": "https://hdo.app/tv"
@@ -514,66 +514,66 @@
             {
                 "name": "BeeTV",
                 "developer": "",
-                "icon": "https://hometeq.ca/wp-content/uploads/2021/05/com.battlebot.dday.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/BeeTV.png",
                 "installs": "",
                 "desc": "Xem Phim ☕ Cài thêm Bear Player để xem",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/beetv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/beetv.apk"
             },
             {
                 "name": "Bear Player",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/zzgsvdRFEKLLhgMBxBExWJPApN48SeDPA8rIwnf24J2rBK_DbDl3uTegX-TedLW90LI",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Bear-Player.png",
                 "installs": "",
                 "desc": "Cài thêm Beetv để xem☕",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/bearplayer.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/bearplayer.apk"
             },
             {
                 "name": "Spotify TV",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/spotifyy.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Spotify.webp",
                 "installs": "",
                 "desc": "Nghe Nhạc 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/spotify.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/NGHE-NHAC/spotify.apk"
             },
             {
                 "name": "Spotify Mobile (MOD)",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/spotifyy.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Spotify.webp",
                 "installs": "",
                 "desc": "Nghe Nhạc Không Quảng Cáo 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/spotifymb.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/NGHE-NHAC/Spotify_Mobile.apk"
             },
             {
                 "name": "Tivi Karaoke",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/8stC8gwNOrXi-4jefehP4jnuotguYH-x-ub_Q_-rEVaLsxB2tKsfXQ7vobWBY0Yi-A",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tivi-Karaoke.png",
                 "installs": "",
                 "desc": "Karaoke 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tivikaraoke.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KARAOKE/tivikaraoke.apk"
             },
             {
                 "name": "KCMS Karaoke",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/8stC8gwNOrXi-4jefehP4jnuotguYH-x-ub_Q_-rEVaLsxB2tKsfXQ7vobWBY0Yi-A",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/KCMS-Karaoke.png",
                 "installs": "",
                 "desc": "Karaoke 😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tivikaraoke.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KARAOKE/tivikaraoke.apk"
             },
             {
                 "name": "MX Player TV",
                 "developer": "Amazon Mobile LLC",
-                "icon": "https://play-lh.googleusercontent.com/fTp32YyE-fi7cdG4V6dDR5OCLsx5bRhgMuCQLXroevnHiZWRY72Cxcseb6vlznTEDQ",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MX-Player-TV.png",
                 "installs": "10 Tr+",
                 "desc": "Thưởng thức loạt phim web không giới hạn, phim nổi tiếng, truyền hình trực tiếp, bản gốc MX trên TV trực tuyến.",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/mx.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/mx.apk"
             },
             {
                 "name": "VLC for Android",
                 "developer": "Videolabs",
-                "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VLC-for-Android.webp",
                 "installs": "100 Tr+",
                 "desc": "VLC cho Android là video và nghe nhạc mã nguồn mở tốt nhất, nhanh chóng và dễ dàng!.",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vlc.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/vlc.apk"
             },
             {
                 "name": "Netflix Fake miễn phí",
@@ -600,33 +600,17 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/Netflix_Mobile.apk"
             },
             {
-                "name": "Kodi (MOD) 64bit",
+                "name": "Kodi Phước Pháp(MOD)",
                 "developer": "Phiên bản: 21.2",
-                "icon": "https://play-lh.googleusercontent.com/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Kodi.png",
                 "installs": "",
                 "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https://t.me/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
-                "apk_url": "https://phuocphap.ahiep.name.vn/phuocphap/KODI/Kodi22/Kodi21-ondinh-%20cloner/kodi21.2-64bit.apk"
-            },
-            {
-                "name": "Kodi (MOD) Dune 12",
-                "developer": "Phiên bản: 21.2",
-                "icon": "https://play-lh.googleusercontent.com/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
-                "installs": "",
-                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https://t.me/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
-                "apk_url": "https://phuocphap.ahiep.name.vn/phuocphap/KODI/Kodi22/Kodi21-ondinh-%20cloner/kodi21.2-DuneAndroid12.apk"
-            },
-            {
-                "name": "Kodi (MOD) Dune 9",
-                "developer": "Phiên bản: 21.2",
-                "icon": "https://play-lh.googleusercontent.com/RQvf62YkkS_hpGAfP2iBoT2yf7b0oohFQHhBB8Chp8nHNPSqmZgEkwwpKtqdtqQ_ZvM",
-                "installs": "",
-                "desc": "Kodi trung tâm truyền thông, một nguồn mở miễn phí và cross-nền tảng trung tâm vui chơi giải trí. \r\nHướng dẫn\r\nChọn cập nhật ! Và cài đè\r\nPhim 4K cần đăng ký tk miễn phí ở tele https://t.me/congdong4ker\r\nĐối với người dùng Fshare \r\nĐể mở vnmedia và vietmediaf thì vào tiện ích của tôi - tất cả - bật vnmedia và vietmediaf lên để đăng nhập xài\r\nCần có tk Fshare VIP để đăng nhập xem 🤩\r\nNguồn lấy từ internet\r\n",
-                "apk_url": "https://phuocphap.ahiep.name.vn/phuocphap/KODI/Kodi22/Kodi21-ondinh-%20cloner/kodi21.2-DuneAndroid9.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KODI/KODI_Phuocphap_v22.apk"
             },
             {
                 "name": "Netfly TV",
                 "developer": "Ứng dụng xem truyền hình miễn phí",
-                "icon": "https://i.postimg.cc/j5wb4sW-x/f-O.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Netfly-TV.png",
                 "installs": "",
                 "desc": "Ứng dụng xem phim , truyền hình , thể thao quốc tế",
                 "apk_url": "https://netflyapp.com/file/netfly_tv.apk"
@@ -642,7 +626,7 @@
             {
                 "name": "Rổ Phim Fake",
                 "developer": "Ứng dụng xem phim miễn phí",
-                "icon": "https://cdn2.tuoitre.vn/zoom/700_700/471584752817336320/2026/2/5/627127918-1490429379111594-9220538697976330302-n-copy-1770265011500300512150-400-0-1172-1475-crop-17702650475791941049916.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ro-Phim-Fake.webp",
                 "installs": "",
                 "desc": "Bạn đang sử dụng phiên bản mới nhất",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/rophimm.apk"
@@ -650,39 +634,39 @@
             {
                 "name": "VAX",
                 "developer": "",
-                "icon": "https://img.pikbest.com/png-images/20210821/png-vaccine-design-covid-19-and-medical-elements_6079109.png!sw800",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VAX.png",
                 "installs": "",
                 "desc": "Xem phim miễn phí",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vax.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/vax.apk"
             },
             {
                 "name": "PCR TV",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/jh9ddh1JLsCtlSOnwhBoZMNqHefuIQxGAmkqItviNrloX9QNvYlvNdzcc6yhXoQzJt4",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/PCR-TV.png",
                 "installs": "",
                 "desc": "Phim chiếu rạp TV ",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/pcr.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/pcr.apk"
             },
             {
                 "name": "SportsFire",
                 "developer": "",
-                "icon": "https://androidrepublica.com/wp-content/uploads/2024/01/sportsfire-app.jpg-1.webp",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Sports-Fire.webp",
                 "installs": "",
                 "desc": "Đá bóng miễn phí",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sportsfire.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-TIVI/sportsfire.apk"
             },
             {
                 "name": "Hiếu Gà Cinema",
                 "developer": "",
-                "icon": "https://www.hieugaphim.fun/logo.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Hieu-Ga-Cinema.png",
                 "installs": "",
                 "desc": "Xem phim hieugaphim.fun",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/hieuga.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/hieuga.apk"
             },
             {
                 "name": "OP Play - Phim & Anime",
-                "developer": "Hoang Ngoc",
-                "icon": "https://play-lh.googleusercontent.com/bJmfDWksUrtXTrO0lzkYDDMFX1YDvF3XSPEckjKpVBS4g_dCiGY69_BNOiRYYLd-Ci3ZtHvV6tznmdFWgxSZTw",
+                "developer": "Ứng dụng xem phim miễn phí",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/OP-Play-Phim-Anime.jpg",
                 "installs": "",
                 "desc": "OP Play – Phim & Anime tự hào là nền tảng xem phim online dẫn đầu xu hướng.",
                 "apk_url": "https://play.google.com/store/apps/details?id=com.hn.movie_android"
@@ -759,18 +743,18 @@
             {
                 "name": "MStore",
                 "developer": "Kho ứng dụng Việt Nam",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_NX-IY9UEoRsAMatZKDqLfbv-sq04RCacQg&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MStore.png",
                 "installs": "",
                 "desc": "Phiên bản: 2.0",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/mstore.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/mstore.apk"
             },
             {
                 "name": "Emet Surf",
                 "developer": "Kho ứng dụng Nước ngoài",
-                "icon": "https://play-lh.googleusercontent.com/MVfRmMFg_oO0ONE-ATsyC2m-PVqEq3lqTYuGBk7IUzGPfTHIwO2I-CyoaijqZztMvko8=w240-h480-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emet-Surf.webp",
                 "installs": "",
                 "desc": "Trình Duyệt Web All In One",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/emet.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/emet.apk"
             },
             {
                 "name": "JioSphere",
@@ -778,7 +762,7 @@
                 "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP17syNycSI-U3itXnuDD3c-BHdktZK2y-jVP1LrrF7g&s",
                 "installs": "",
                 "desc": "Trình Duyệt Web Đầy Đủ",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/jiosphere.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/jiosphere.apk"
             },
             {
                 "name": "AptoideTV",
@@ -786,7 +770,7 @@
                 "icon": "https://images.sftcdn.net/images/t_app-icon-m/p/ce9b1536-96d0-11e6-b886-00163ed833e7/247507360/aptoide-logo",
                 "installs": "",
                 "desc": "Phiên bản: ",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aptoidetv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/aptoidetv.apk"
             },
             {
                 "name": "HDPlay Store",
@@ -807,10 +791,10 @@
             {
                 "name": "APK Update",
                 "developer": "Kho ứng dụng Nước ngoài",
-                "icon": "https://play-lh.googleusercontent.com/JVPqSUjWg9JYlw_KitvbDtmImVcINiW-eZITgdD92RQ4tV2F_WUOrVTkPmBamCUeZIo",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/APK-Update.png",
                 "installs": "",
                 "desc": "Phiên bản: ",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/apkup.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/apkup.apk"
             },
             {
                 "name": "Emotn Store",
@@ -818,7 +802,7 @@
                 "icon": "https://static.emotn.com/img/logo.png",
                 "installs": "",
                 "desc": "Phiên bản: ",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/emotnstore.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/emotnstore.apk"
             },
             {
                 "name": "Dangbei Store",
@@ -852,266 +836,266 @@
             {
                 "name": "Tất Cả Ứng Dụng (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/G-3hJES5hozl1a9lRcr5WdDayEGGANF0LzUsf8ZCoL1wICVoo2RHRYO1lGeA0ssRn3k=w240-h480-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tat-ca-ung-dung.webp",
                 "installs": "",
                 "desc": "Hiện Tất Cả Ứng Dụng 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tatcaapp.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/tatcaapp.apk"
             },
             {
                 "name": "Quản Lý APP (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/y1AJ22n-yQAIPDJ-Gbwjctgn6780vXP5xIq_z9ENbPZrpDENl5IIdeUXoV8sfklhi3s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Quan-ly-app.png",
                 "installs": "",
                 "desc": "Khoá Ứng Dụng 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/khoa.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/khoa.apk"
             },
             {
                 "name": "TVQuickActions (MOD VIP)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/u1e6dAgrKtHo7m9vfVJqOXdiw6DFgZWAfV1PiqlxJFsZ-4FB_xN2wNP4Nsrd_e87oEQ",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/TVQuickActions.png",
                 "installs": "",
                 "desc": "Map Phím Siêu Pro 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tvq1.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/tvq1.apk"
             },
             {
                 "name": "Happy Chick TV (MOD VIP)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/h1wXW-thQ5de47ETDLlzzE1k3JIUyl2eaREl-CI7UQHfu63RV_F8hXmZblVL_RXVzg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Happy-Chick-TV.png",
                 "installs": "",
                 "desc": "Giả Lập Game Nes, PSP😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/happychick.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/happychick.apk"
             },
             {
                 "name": "APK Mirror Installer (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/04zdh0xwgkxR0kTE_pAzURKJjihHjR9Nz5RSU1R7toS9W8-QCLE1RtJBS4Csl-ueEUU",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/APK-Mirror-Installer.png",
                 "installs": "",
                 "desc": "Cài APKX APKS 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/apkmirro.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/apkmirro.apk"
             },
             {
                 "name": "SAI (MOD)",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YNOlv-Q7KsVQcplQu0_Jpn-1u2sEDUfjW0Jb2vSQFBQi57CJ7TCtHmQ&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SAI.png",
                 "installs": "",
                 "desc": "Cài APKX APKS 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sai.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/sai.apk"
             },
             {
                 "name": "Xoay Màn Hình",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/RqiV1jB4ywGtAVTmNOqnmgYo37OCrKDqiSQKaHvVM8rg8-ywdRNEit98wmsFdniusvpH",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Xoay-man-hinh.jpg",
                 "installs": "",
                 "desc": "Xoay Dọc Ngang màn hình 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xoaymanhinh.apk"
-            },
-            {
-                "name": "Google Android TV",
-                "developer": "Minh Tâm",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
-                "installs": "",
-                "desc": "Lối tắt tìm kiếm giọng nói 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tkgn.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/xoaymanhinh.apk"
             },
             {
                 "name": "Bàn Phím Android TV",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/kbatv.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ban-phim-android-tv.png",
                 "installs": "",
                 "desc": "✅ Tổng hợp bàn phím Android",
-                "apk_url": "https://www.mediafire.com/folder/t7ctwr5vyis3q/B%C3%A0n+ph%C3%ADm"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/Ban_Phim_Android_TV_1.4.3.apk"
             },
             {
                 "name": "Camera IMOU (MOD)",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/imou.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Imou.png",
                 "installs": "",
                 "desc": "✅Add con trỏ chuột, icon",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/imou.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/CAMERA/Imou_MOD.apk"
             },
             {
-                "name": "Quét Bluetooth (MOD)",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/refs/heads/main/timblt.png",
+                "name": "Bluetooth Scanner (MOD)",
+                "developer": "Quét Bluetooth cho Box hoặc Android TV bị kén Bluetooth",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/bluetooth-scan.webp",
                 "installs": "",
-                "desc": "Quét Bluetooth cho Box hoặc Android TV bị kén Bluetooth",
-                "apk_url": "https://is.gd/phapblt"
+                "desc": "Phiên bản: 2.0",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BLUETOOTH/Bluetooth_Scanner.apk"
             },
             {
                 "name": "Bluetooth Remote & Mouse",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/oECx2DxYZsIGSoZ9OIBWe3wIy-aPNc0myLsskEEggX0E41AO0VF43yFXFg49vrrkjiAJ=w240-h480-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Bluetooth-Remote-Mouse.webp",
                 "installs": "",
                 "desc": "dùng điện thoại làm remote Bluetooth cho TV ⭐",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/bltrm.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BLUETOOTH/bltrm.apk"
             },
             {
                 "name": "Bluetooth Remote",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKeE6uWFyZ7SfHTZYXJxT1lPfHQdBifSJKovxxkg2Pw&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Bluetooth-Remote.png",
                 "installs": "",
                 "desc": "Dùng điện thoại làm remote Bluetooth cho TV 2⭐",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/btrmt.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/btrmt.apk"
             },
             {
                 "name": "LeankeyBoard",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/64lBNTOitObo3YW5estD6CBo1LMARegXfk3AY2L6nVjCPCC21YEZ5uYsRvJjuNfIEwA",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Leankey-Board.jpg",
                 "installs": "",
                 "desc": "Bàn Phím Android TV ⭐",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/leankey.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/LeanKey_Keyboard_Pro_v6.1.20.apk"
             },
             {
                 "name": "Keyboard Android TV",
                 "developer": "",
-                "icon": "https://developer.android.com/static/training/tv/images/atv-keyboard-password.png?hl=vi",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Keyboard-Android-TV.png",
                 "installs": "",
                 "desc": "Bàn Phím Android TV",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/bpatv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/bpatv.apk"
             },
             {
                 "name": "Atvtools (MOD)",
                 "developer": "",
-                "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/77/0e/cf770e7e-1e9c-d8cf-696e-f2a2eae582e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1024x1024bb.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Atvtools.png",
                 "installs": "",
                 "desc": "Dùng điện thoại Điều Khiển Tivi qua wifi và hơn thế",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/atvtool.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/atvtool.apk"
             },
             {
                 "name": "Mở bằng (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/FOvPXQMtmSkT1E8ekTN56oM81oEG1N9SV6PdCYpu5Le5ml14Rdi8znL1aqPxK1cKSqo",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Mo-bang.png",
                 "installs": "",
                 "desc": "Mở tốt với",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/o.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/o.apk"
             },
             {
                 "name": "Swift Backup Premium",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/nYlBOXPFie6wXrfRSzM6P2CVQOJgUg8tofwb1dBNbGQ_zm_Yw47o3J55hsT9kCT2pvM",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Swift-Backup-Premium.jpg",
                 "installs": "",
                 "desc": "Sao Lưu - Khôi phục APP và DATA (Yêu cầu root)",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sbackup.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/sbackup.apk"
             },
             {
                 "name": "Remote ADB",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Remote-ADB.png",
                 "installs": "",
                 "desc": "Remote adb",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/radb.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/radb.apk"
             },
             {
                 "name": "ADB Control",
-                "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/k7lEVSrxLA54xzKtV7TUXew2fjrCuej-gBkeihuGYa4u9_cGdMRcBNEmx3JwpbY0E4JN",
+                "developer": "Phần mềm quản lý ứng dụng",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ADB_Control.png",
                 "installs": "",
-                "desc": "Remote adb",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/radb.apk"
+                "desc": "Phiên bản: V1.12",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/ADB/adbtv.apk"
             },
             {
                 "name": "Termux",
                 "developer": "",
-                "icon": "https://cdn-bgp.bluestacks.com/BGP/vn/gametiles_com.termux.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Termux.jpg",
                 "installs": "",
                 "desc": "Termux",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/termux.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/termux.apk"
             },
             {
                 "name": "Sửa lỗi tự động cập nhật ngày giờ Yêu cầu gỡ lỗi usb",
                 "developer": "",
-                "icon": "https://cdn-icons-png.freepik.com/512/5521/5521277.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Sua-loi-tu-dong-cap-nhat-ngay-gio-yeu-cau-goi-loi-usb.png",
                 "installs": "",
                 "desc": "Fix Time NTP",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ntp.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/ntp.apk"
             },
             {
                 "name": "CastReceiver (MOD)",
                 "developer": "Phiên bản: 1.6.13",
-                "icon": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/07/75/669a63609d9d2_com.softmedia.receiver.castapp.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Cast-Receiver.png",
                 "installs": "",
                 "desc": "Truyền màn hình - Google Cast cho thiết bị không hỗ trợ 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/castreceiver.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/CAST-MAN-HINH/castreceiver.apk"
             },
             {
                 "name": "MT Channel",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUBrCebB_zcqNe92XrO9_ppfKPDN4D7krsBSZdkf23w&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MT-Channel.jpg",
                 "installs": "",
                 "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/mtc.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/mtc.apk"
             },
             {
                 "name": "Sideload Channel",
                 "developer": "",
-                "icon": "https://images.dwncdn.net/images/t_app-icon-l/p/1fa862ad-deb0-41a2-901a-f6717969ea7b/3343212154/2072_4-78118534-logo",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Sideload-Channel.png",
                 "installs": "",
                 "desc": "Tạo các kênh TV Android của riêng bạn và thêm bất kỳ ứng dụng nào bạn đã cài đặt trong thiết bị của mình.",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/slc.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/slc.apk"
             },
             {
                 "name": "Weather - Thời tiết",
-                "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/RskDwFglKr6j6kLeFFtCPjDcj5LUfSASLr7c6lgqPBjCTZVb0rsrQxZRqlIoBZrKUw",
+                "developer": "Widget thời tiết",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Weather-thoitiet-1.png",
                 "installs": "",
                 "desc": "Thời tiết cho ATV Launcher đã Mod",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/thoitiet.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/THOI-TIET/thoitiet.apk"
+            },
+            {
+                "name": "Weather - Live",
+                "developer": "Widget thời tiết",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Weather-thoitiet-2.png",
+                "installs": "",
+                "desc": "Thời tiết cho ATV Launcher đã Mod",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/THOI-TIET/Weather_live_v6.20.3.apk"
             },
             {
                 "name": "Dashboard - Tất cả app",
                 "developer": "",
-                "icon": "https://image.winudf.com/v2/image1/Y29tLnNhbWFib3guZGFzaGJvYXJkX2ljb25fMTU4MjA0MjgzNV8wNzU/icon.png?w=184&fakeurl=1",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Dashboard.webp",
                 "installs": "",
                 "desc": "Dasboard - Tất cả app",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/dashboard.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/dashboard.apk"
             },
             {
                 "name": "Kiểm tra tốc độ mạng - Speedtest ",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/1LKWySZIE8Shx6Y1oy1LgrAtgDo-FwweOmW1hnfTVggPOM0txJ1qYtc8G8XOEfDpGA",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Speedtest.png",
                 "installs": "",
                 "desc": "Kiểm tra tốc độ mạng",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/sp.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/DO-TOC-DO-MANG/sp.apk"
             },
             {
                 "name": "Tevegram - Telegram TV",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgCJi4ElLnfBQ1KgoHRbryNIlIaQyhOAphQeUGkA2mDw&s=10",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tevegram.jpg",
                 "installs": "",
                 "desc": "Telegram cho TV",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/telegramtv.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/MANG-XA-HOI/telegramtv.apk"
             },
             {
                 "name": "Just Player",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/LNF01ydGbukqvbFU9pTcZDSRfi86ipAqSdH0Mksb4vk3B4urmMx5qO37OvYXlBalXBE=w240-h480-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Just-Player.webp",
                 "installs": "",
                 "desc": "Justplayer Legacy😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/justplayerl.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/justplayerl.apk"
             },
             {
                 "name": "Nova Video Player",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01Lzlg_Q_8HBwQwy4RgmPYADsts0acdNnSg&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Nova-Video-Player.png",
                 "installs": "",
-                "desc": "Nova😁",
-                "apk_url": "https://github.com/nova-video-player/aos-AVP/releases"
+                "desc": "https://github.com/nova-video-player/aos-AVP/releases",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/org.courville.nova-2655343-6.4.32-20260329.2236-x86_64-release.apk"
             },
             {
                 "name": "Aplayer (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/vxkarvy-wCnMYFqKKjfAZgwZH3PZdY5fuhEtKa1kgpk5kLvdeI9xeoPI47i42pCCId0",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Aplayer.png",
                 "installs": "",
                 "desc": "Aplayer😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aplayer.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/aplayer.apk"
             },
             {
                 "name": "Fast Cast",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/vxkarvy-wCnMYFqKKjfAZgwZH3PZdY5fuhEtKa1kgpk5kLvdeI9xeoPI47i42pCCId0",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Fast-Cast.png",
                 "installs": "",
                 "desc": "Aplayer😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/aplayer.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/aplayer.apk"
             },
             {
                 "name": "Boot Control",
@@ -1321,26 +1305,34 @@
             {
                 "name": "ATV Launcher",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "https://play-lh.googleusercontent.com/K9ezslXnY0Y_SvZrjV3wWQkbnViIDKUAFVUA6PyzMpveV661gnuBKLiwngfAhagxXko=w526-h296-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/ATV-Launcher.png",
                 "installs": "",
                 "desc": "Phiên bản: 5.3.1",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/atvlauncher.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/ATV-launcher/ATVLauncher.apk"
             },
             {
-                "name": "Projectivy Launcher",
+                "name": "Projectivy Launcher (MOD)",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "https://play-lh.googleusercontent.com/6bigO3_72JW9xTdkX7Mpm8fTBiP7ISDCUcI2E3C79P21uwuJC6VWD8pFxH-bXvc-CVZm",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Projectivy-Launcher-1.webp",
                 "installs": "",
-                "desc": "Phiên bản: 6.5",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/prolauncher.apk"
+                "desc": "Phiên bản: 4.68 (Android 7 trở lên)",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/ProjectivyLauncher/ProjectivyLauncher_v4.36_Pro.apk"
+            },
+            {
+                "name": "Projectivy Launcher (MOD)",
+                "developer": "Giao diện dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Projectivy-Launcher-1.webp",
+                "installs": "",
+                "desc": "Phiên bản: 4.36 (Android5)",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/ProjectivyLauncher/ProjectivyLauncher_v4.68_Pro.apk"
             },
             {
                 "name": "Thay đổi giao diện",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7SMes5z4Yap2rUWUioxisEXXGN7t_eMTwQ&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Thay-doi-giao-dien.png",
                 "installs": "",
                 "desc": "Thay đổi giao diện mặc định 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tdgd.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/tdgd.apk"
             },
             {
                 "name": "HomeTV",
@@ -1353,15 +1345,15 @@
             {
                 "name": "Emotn Launcher",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "https://static.emotn.com/img/logo.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emotn-Launcher-1.jpg",
                 "installs": "",
                 "desc": "Phiên bản: 3.5.4",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/emotn.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/Emotn_UI_Launcher/FILE-GOC/Emotn_UI_Launcher_TV_1.1.0.0_45.apk"
             },
             {
                 "name": "Leanback On Fire",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/LeanbackOnFire-Launcher.png",
+                "icon": "github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/Leanback-On-Fire-1.webp?raw=true",
                 "installs": "",
                 "desc": "Hỗ trợ cho Android 5 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/LeanbackOnFire/LeanbackOnFire_v1.63-goc.apk"
@@ -1369,18 +1361,10 @@
             {
                 "name": "Ugoos Launcher",
                 "developer": "Giao diện dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ugoos-Launcher.webp",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Ugoos-Launcher.jpg",
                 "installs": "",
                 "desc": "Hỗ trợ cho Android 5 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/GIAO-DIEN/UGOOS-LAUNCHER/Ugoos-Launcher.apk"
-            },
-            {
-                "name": "LeanKey Keyboard Pro",
-                "developer": "Bàn phím dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/LeanKey-Keyboard-Pro.png",
-                "installs": "",
-                "desc": "Hỗ trợ cho Android 5 trở lên",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/LeanKey_Keyboard_Pro_v6.1.20.apk"
             },
             {
                 "name": "Gboard",
@@ -1422,34 +1406,34 @@
             {
                 "name": "Quản Lý Tệp",
                 "developer": "Trình quản lý file cực đẹp",
-                "icon": "https://img.freepik.com/premium-vector/file-manager-icon_915059-5.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/File-Manager.png",
                 "installs": "",
                 "desc": "Quản lý tập tin không có quảng cáo",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/qlt.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/qlt.apk"
             },
             {
                 "name": "Mixplorer Premium",
                 "developer": "Trình quản lý file",
-                "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/eb/6e/a3eb6ef2-36b6-1f7f-416e-4b2595bf5e2b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024bb.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Mixplorer.png",
                 "installs": "",
                 "desc": "Quản lý tập tin😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/mixp.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/MiXplorer_6.70.0.apk"
             },
             {
                 "name": "RS File Manager",
                 "developer": "Phiên bản Tiếng Việt đã MOD VIP",
-                "icon": "https://play-lh.googleusercontent.com/dEeyATXftk2cMTNSXBCnyD-ZGNRi40naefdlsjScAiurQ-eJ9IOeaA7lSo-WPFfs8Kc",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/RS-File-Manager.png",
                 "installs": "",
                 "desc": "Quản lý tập tin",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/RS_File_Manager_Amymmo_Pro.apk"
             },
             {
                 "name": "Xplorer File Manager Premium",
-                "developer": "Trình quản lý file",
-                "icon": "https://play-lh.googleusercontent.com/kkd0TsVGQ0SFAM7T-SWQoQAhtZXFJlK1LRJBN6qisUeSQHnCBlWmP2ZhgOtPRGZ75hQ",
+                "developer": "Trình quản lý file không quảng cáo",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Xplorer.png",
                 "installs": "",
-                "desc": "Quản lý tập tin không quảng cáo😁",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/xplorer.apk"
+                "desc": "Phiên bản: 4.32.04",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/QUAN-LY-FILE/X_plore_v4.32.04.apk"
             },
             {
                 "name": "Root Explorer Premium",
@@ -1475,55 +1459,47 @@
             {
                 "name": "Kiwi VPN (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/ko-xBhcnT7GIL6Y7eks6a0ageeHHvY27gtY4s2zRkfobZ4Jgzc1mvse-NZSVGBAlUVw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Kiwi-VPN.png",
                 "installs": "",
                 "desc": "VPN Kiwi 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiwi.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/kiwi.apk"
             },
             {
                 "name": "1.1.1.1 Cloudfare (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/1111.png",
                 "installs": "",
                 "desc": "VPN 1111 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/1111.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/1111.apk"
             },
             {
                 "name": "Adguard (MOD)",
                 "developer": "",
-                "icon": "https://muaga.me/wp-content/uploads/2020/05/adguard-premium-vinh-vien.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/adguard-premium-vinh-vien.png",
                 "installs": "",
                 "desc": "VPN Chặn Quảng cáo 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/adguard.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/adguard.apk"
             },
             {
                 "name": "VPN VIETNAM SUPER (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/Cmr1EzmO7xuWZG72LpjlEvc6UMXrXxh96ZJyht3ojA3X4pMO4nSe17irOCA9BjLZaBY",
+                "icon": "github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/VPN-VIETNAM-SUPER.png?raw=true",
                 "installs": "",
                 "desc": "VPN Chặn Quảng cáo YouTube 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vpnvn.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/vpnvn.apk"
             },
             {
                 "name": "UltraSurf VPN (MOD)",
                 "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/QeDg46ts4oHQxpx03egAQ9F9PLTbtKQUh2LObXrylexydDHje6UKKQbw3eo6F0HlbWMT",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/UltraSurf-VPN.png",
                 "installs": "",
                 "desc": "VPN 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/ultrasurf.apk"
-            },
-            {
-                "name": "Kiwi VPN (MOD)",
-                "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw",
-                "installs": "",
-                "desc": "VPN ✅",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/kiwi.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/ultrasurf.apk"
             },
             {
                 "name": "WireGuard",
                 "developer": "Ứng dụng đổi IP",
-                "icon": "https://play-lh.googleusercontent.com/LZmCd9GyzfB7jJKdaDfViz4JYUVZByB5qrCcCergciP1L6LUrIDNDRZ6HY3Q25NmG4KG=w240-h480-rw",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Wire-Guard.png",
                 "installs": "",
                 "desc": "Phiên bản: 1.0",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VPN-DNS/WireGuard_v1.0.20201224.apk"
@@ -1531,17 +1507,17 @@
             {
                 "name": "Octohide VPN",
                 "developer": "",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEEr5ttyzoiAX2OsOcSVkXc_tyBNMnPMs6w&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Octohide_VPN.png",
                 "installs": "",
                 "desc": "VPN 😘",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/octohide.apk"
             },
             {
-                "name": "VPN",
+                "name": "VPN NGA (MOD)",
                 "developer": "",
-                "icon": "https://raw.githubusercontent.com/rupanh123-phap/rupanh123-phap/refs/heads/main/vpnnga.png",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VPN_NGA.png",
                 "installs": "",
-                "desc": "VPN NGA (MOD)",
+                "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/vpnnga.apk"
             },
             {
@@ -1717,18 +1693,18 @@
             {
                 "name": "VNVoice - Tìm Kiếm Giọng Nói",
                 "developer": "Tìm Kiếm Giọng Nói",
-                "icon": "https://static.vecteezy.com/system/resources/previews/021/569/060/non_2x/letter-v-initials-sound-voice-spectrum-rhythm-digital-futuristic-modern-vibrant-logo-design-vector.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/VNVoice.jpg",
                 "installs": "",
                 "desc": "Hỗ trợ Smarttube - KODI😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/voicelinor.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/voicelinor.apk"
             },
             {
                 "name": "Lối Tắt - Tìm Kiếm Giọng Nói ",
                 "developer": "Tìm Kiếm Giọng Nói",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXjAMcwU-Cksb8_KTKCiXiX6vd4bKxbhsrA&s",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Loi-tat-tim-kiem-giong-noi.jpg",
                 "installs": "",
                 "desc": "Lối tắt tìm kiếm giọng nói 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/tkgn.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/VOICE/GOOGLE-VOICE/tkgn.apk"
             },
             {
                 "name": "Cài phím Voice cho Youtube",
@@ -1739,12 +1715,12 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/CAI%20PHIM%20VOICE%20YOUTUBE/Cai_Phim_Voice_YouToTube.apk"
             },
             {
-                "name": "Tăng Âm Lượng (MOD)",
-                "developer": "",
-                "icon": "https://play-lh.googleusercontent.com/7oQ_z9HskMd872l1t0gJUKtcJjuIfkRqaOdfk8m3jpgg750EQNI7SLcw5ca9oaxbpj4=w240-h480-rw",
+                "name": "Volume Boost (MOD)",
+                "developer": "Tăng Âm Lượng 300% cho thiết bị",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tang-am-luong.webp",
                 "installs": "",
                 "desc": "Volume Booster 😘",
-                "apk_url": "https://github.com/rupanh123-phap/928394040393939339393939949430038458575758933030202020202848485858585949400485858585859402.github.io/releases/download/V1.0.0/volumeboost.apk"
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/TANG-AM-LUONG/volumeboost.apk"
             }
         ]
     },
