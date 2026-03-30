@@ -333,7 +333,7 @@
         ]
     },
     {
-        "category": "XEM PHIM - NGHE NHẠC",
+        "category": "YOUTUBE",
         "items": [
             {
                 "name": "Tizen Tube",
@@ -359,6 +359,51 @@
                 "desc": "Luôn cập nhật thường xuyên-Hỗ trợ Android 8 trở lên",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/YOUTUBE-COBALT/YouTube_Cobalt_v1.10.0.apk"
             },
+            {
+                "name": "Youtube (Bản gốc)",
+                "developer": "Phiên bản chỉ dành cho Android TV",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Youtube-1.png",
+                "installs": "",
+                "desc": "Phiên bản mới nhất hiện nay ✅",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/YOUTUBE-GOC/Youtube_goc_Android_TV_6.51.300.apk"
+            },
+            {
+                "name": "YouTube Revanced (MOD)",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/YouTube-Revanced.webp",
+                "installs": "",
+                "desc": "Dành cho điện thoại - TV phải dùng 🐀",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/ytbrvc.apk"
+            },
+            {
+                "name": "MicroG (Yotube Revanced)",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MicroG-Yotube-Revanced.webp",
+                "installs": "",
+                "desc": "Để đăng nhập YouTube Revanced ✅ Yêu cầu phải cài MicroG",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/microg.apk"
+            },
+            {
+                "name": "Newpipe",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Newpipe.png",
+                "installs": "",
+                "desc": "Youtube không quảng cáo FHD 😁",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/newpipe.apk"
+            },
+            {
+                "name": "SkyTube Extra",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SkyTube-Extra.png",
+                "installs": "",
+                "desc": "YouTube không quảng cáo 4K 😁 Dành cho điện thoại",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/skytube.apk"
+            }
+        ]
+    },
+    {
+        "category": "XEM PHIM - NGHE NHẠC",
+        "items": [
             {
                 "name": "Phim 4K (TV)",
                 "developer": "Luôn là phiên bản mới nhất",
@@ -454,46 +499,6 @@
                 "installs": "",
                 "desc": "Media Server🦊",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/emby.apk"
-            },
-            {
-                "name": "Youtube (Bản gốc)",
-                "developer": "Phiên bản chỉ dành cho Android TV",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Youtube-1.png",
-                "installs": "",
-                "desc": "Phiên bản mới nhất hiện nay ✅",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-TV-BOX/YOUTUBE-GOC/Youtube_goc_Android_TV_6.51.300.apk"
-            },
-            {
-                "name": "YouTube Revanced (MOD)",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/YouTube-Revanced.webp",
-                "installs": "",
-                "desc": "Dành cho điện thoại - TV phải dùng 🐀",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/ytbrvc.apk"
-            },
-            {
-                "name": "MicroG (Yotube Revanced)",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/MicroG-Yotube-Revanced.webp",
-                "installs": "",
-                "desc": "Để đăng nhập YouTube Revanced ✅ Yêu cầu phải cài MicroG",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/YOUTUBE-MOBILE/YOUTUBE-REVANCED/microg.apk"
-            },
-            {
-                "name": "Newpipe",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Newpipe.png",
-                "installs": "",
-                "desc": "Youtube không quảng cáo FHD 😁",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/newpipe.apk"
-            },
-            {
-                "name": "SkyTube Extra",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/SkyTube-Extra.png",
-                "installs": "",
-                "desc": "YouTube không quảng cáo 4K 😁 Dành cho điện thoại",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/YOUTUBE/skytube.apk"
             },
             {
                 "name": "Flix Vision",
