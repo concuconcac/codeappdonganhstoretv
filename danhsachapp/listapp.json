@@ -1691,7 +1691,7 @@
         "category": "VOICE - GIỌNG NÓI",
         "items": [
             {
-                "name": "Super Voice 2.9",
+                "name": "Super Voice",
                 "developer": "Tìm Kiếm Giọng Nói",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Super-Voice.png",
                 "installs": "",
@@ -1699,7 +1699,7 @@
                 "apk_url": "https://bom.so/suppervoice"
             },
             {
-                "name": "Map Voice 3.0",
+                "name": "Map Voice",
                 "developer": "Tìm Kiếm Giọng Nói",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Map-Voice.png",
                 "installs": "",
