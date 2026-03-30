@@ -797,12 +797,36 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/apkup.apk"
             },
             {
+                "name": "Aurora Store",
+                "developer": "Kho ứng dụng Nước ngoài",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Aurora_Store.png",
+                "installs": "",
+                "desc": "Phiên bản: 4.8.1",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/Aurora_store.apk"
+            },
+            {
                 "name": "Emotn Store",
                 "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Emotn-Store.webp",
                 "installs": "",
                 "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/emotnstore.apk"
+            },
+            {
+                "name": "F-Droid",
+                "developer": "Kho ứng dụng Nước ngoài",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/F-Droid.png",
+                "installs": "",
+                "desc": "Phiên bản: ",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/F-Droid.apk"
+            },
+            {
+                "name": "Uptodown App Store",
+                "developer": "Kho ứng dụng Nước ngoài",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Uptodown-App-Store.png",
+                "installs": "",
+                "desc": "Phiên bản: ",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/Uptodown-app-store.apk"
             },
             {
                 "name": "APK Pure (MOD)",
