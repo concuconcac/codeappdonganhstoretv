@@ -930,14 +930,6 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/Ban_Phim_Android_TV_1.4.3.apk"
             },
             {
-                "name": "Camera IMOU (MOD)",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Imou.png",
-                "installs": "",
-                "desc": "✅Add con trỏ chuột, icon",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/CAMERA/Imou_MOD.apk"
-            },
-            {
                 "name": "Bluetooth Scanner (MOD)",
                 "developer": "Quét Bluetooth cho Box hoặc Android TV bị kén Bluetooth",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/bluetooth-scan.webp",
@@ -1798,6 +1790,14 @@
                 "installs": "",
                 "desc": "Phiên bản: 1.3.0",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/CAMERA/Imou_HPO_v1.2.90000.apk"
+            },
+            {
+                "name": "Camera IMOU (MOD)",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Imou.png",
+                "installs": "",
+                "desc": "✅Add con trỏ chuột, icon",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/BAN-PHIM/CAMERA/Imou_MOD.apk"
             },
             {
                 "name": "Hik-Connect",
