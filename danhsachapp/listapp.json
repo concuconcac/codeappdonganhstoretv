@@ -402,7 +402,7 @@
             {
                 "name": "OP Play - Phim & Anime",
                 "developer": "Ứng dụng xem phim miễn phí",
-                "icon": "https://github.com/concuconcac/codeappdonganhstoretv/blob/main/danhsachapp/ICON-APP/OP-Play-Phim-Anime.jpg",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/OP-Play-Phim-Anime.jpg",
                 "installs": "",
                 "desc": "Bắt buộc phải dùng SAI để cài ứng dụng.",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/XEM-PHIM/OP_Play_Phim_Anime.xapk"
