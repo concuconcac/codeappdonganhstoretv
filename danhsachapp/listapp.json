@@ -797,14 +797,6 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/BaoStore_v1.0.10.apk"
             },
             {
-                "name": "APK Update",
-                "developer": "Kho ứng dụng Nước ngoài",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/APK-Update.png",
-                "installs": "",
-                "desc": "Phiên bản: ",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/apkup.apk"
-            },
-            {
                 "name": "Aurora Store",
                 "developer": "Kho ứng dụng Nước ngoài",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Aurora_Store.png",
@@ -843,6 +835,14 @@
                 "installs": "",
                 "desc": "Phiên bản: ",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/APKPure-v3.19.35-No-Ads.apk"
+            },
+            {
+                "name": "APK Update",
+                "developer": "Kho ứng dụng Nước ngoài",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/APK-Update.png",
+                "installs": "",
+                "desc": "Phiên bản: ",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/KHO-TAI-APPS/apkup.apk"
             },
             {
                 "name": "Dangbei Store",
