@@ -866,14 +866,6 @@
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/Downloader/Downloader_Pro_DonganhShop.apk"
             },
             {
-                "name": "Package Name Viewer",
-                "developer": "",
-                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Package_Name_Viewer.webp",
-                "installs": "",
-                "desc": "Quản lý tập tin",
-                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/Package_Name_v3.4.0.apk"
-            },
-            {
                 "name": "Tất Cả Ứng Dụng (MOD)",
                 "developer": "",
                 "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Tat-ca-ung-dung.webp",
@@ -1032,6 +1024,14 @@
                 "installs": "",
                 "desc": "Termux",
                 "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/termux.apk"
+            },
+            {
+                "name": "Package Name Viewer",
+                "developer": "",
+                "icon": "https://raw.githubusercontent.com/concuconcac/codeappdonganhstoretv/refs/heads/main/danhsachapp/ICON-APP/Package_Name_Viewer.webp",
+                "installs": "",
+                "desc": "Quản lý tập tin",
+                "apk_url": "https://github.com/amymmocom/androi/raw/refs/heads/main/PHAN-MEM/UNG-DUNG/Package_Name_v3.4.0.apk"
             },
             {
                 "name": "Sửa lỗi tự động cập nhật ngày giờ Yêu cầu gỡ lỗi usb",
